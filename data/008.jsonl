@@ -9453,13 +9453,13 @@
 {"ent_seq":5712194,"k_ele":[{"keb":"麗妃","composition":"麗 妃","dependencies":"麗 妃","kanji":"麗 妃"}]}
 {"ent_seq":5712195,"k_ele":[{"keb":"麗妃","composition":"麗 妃","dependencies":"麗 妃","kanji":"麗 妃"}]}
 {"ent_seq":5712196,"k_ele":[{"keb":"麗微","composition":"麗 微","dependencies":"麗 微か 微","kanji":"麗 微"}]}
-{"ent_seq":5712197,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽","kanji":"麗 美"}]}
-{"ent_seq":5712198,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽","kanji":"麗 美"}]}
-{"ent_seq":5712199,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽","kanji":"麗 美"}]}
-{"ent_seq":5712200,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽","kanji":"麗 美"}]}
-{"ent_seq":5712201,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽","kanji":"麗 美"}]}
-{"ent_seq":5712202,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽","kanji":"麗 美"}]}
-{"ent_seq":5712203,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽","kanji":"麗 美"}]}
+{"ent_seq":5712197,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽 麗美音","kanji":"麗 美"}]}
+{"ent_seq":5712198,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽 麗美音","kanji":"麗 美"}]}
+{"ent_seq":5712199,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽 麗美音","kanji":"麗 美"}]}
+{"ent_seq":5712200,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽 麗美音","kanji":"麗 美"}]}
+{"ent_seq":5712201,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽 麗美音","kanji":"麗 美"}]}
+{"ent_seq":5712202,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽 麗美音","kanji":"麗 美"}]}
+{"ent_seq":5712203,"k_ele":[{"keb":"麗美","dependents":"土麗美 瀬麗美 瞳麗美 華麗美 麗美亜 麗美和 麗美愛 麗美羽 麗美音","kanji":"麗 美"}]}
 {"ent_seq":5712204,"k_ele":[{"keb":"麗美亜","composition":"麗美 亜","dependencies":"麗美 亜","kanji":"麗 美 亜"}]}
 {"ent_seq":5712205,"k_ele":[{"keb":"麗美愛","composition":"麗美 愛","dependencies":"麗美 愛","kanji":"麗 美 愛"}]}
 {"ent_seq":5712206,"k_ele":[{"keb":"麗美羽","composition":"麗美 羽","dependencies":"麗美 羽根 羽","kanji":"麗 美 羽"}]}
@@ -43063,4 +43063,17 @@
 {"ent_seq":5747392,"k_ele":[{"keb":"早鞆瀬戸","composition":"早 鞆 瀬戸","dependencies":"早い 早 鞆 瀬戸","kanji":"早 鞆 瀬 戸"}]}
 {"ent_seq":5747393,"k_ele":[{"keb":"ＣＯＰＡＬ","composition":"copal コーパル","dependencies":"copal コーパル"}]}
 {"ent_seq":5747394}
+{"ent_seq":5747395,"k_ele":[{"keb":"連邦準備銀行","composition":"連邦 準備 銀行","dependencies":"連邦 準備 銀行","kanji":"連 邦 準 備 銀 行"}]}
+{"ent_seq":5747396,"k_ele":[{"keb":"三省堂現代新国語辞典","composition":"三省堂 現代 新 国語 辞典","dependencies":"三省堂 現代 新 国語 辞典","kanji":"三 省 堂 現 代 新 国 語 辞 典"}]}
+{"ent_seq":5747397,"k_ele":[{"keb":"現代新国語辞典","composition":"現代 新 国語 辞典","dependencies":"現代 新 国語 辞典","kanji":"現 代 新 国 語 辞 典"}]}
+{"ent_seq":5747398}
+{"ent_seq":5747399,"k_ele":[{"keb":"日本格付研究所","composition":"日本 格付 研究所","dependencies":"日本 格付け 格付 研究 所 研究所","kanji":"日 本 格 付 研 究 所"}]}
+{"ent_seq":5747400,"k_ele":[{"keb":"ダートマス大学","composition":"ダートマス 大学","dependencies":"ダートマス 大学","kanji":"大 学"}]}
+{"ent_seq":5747401}
+{"ent_seq":5747402,"k_ele":[{"keb":"椿姫","kanji":"椿 姫"}]}
+{"ent_seq":5747403,"k_ele":[{"keb":"麗美音","composition":"麗美 音","dependencies":"麗美 音","kanji":"麗 美 音"}]}
+{"ent_seq":5747404,"k_ele":[{"keb":"三菱ふそう","composition":"三菱 ふそう","dependencies":"三菱 ふそう","kanji":"三 菱"}]}
+{"ent_seq":5747405,"k_ele":[{"keb":"中日本高速道路株式会社","composition":"中日本高速道路 株式会社","dependencies":"中日本 高速 道路 中日本高速道路 株式 会社 株式会社","kanji":"中 日 本 高 速 道 路 株 式 会 社"}]}
+{"ent_seq":5747406,"k_ele":[{"keb":"ＮＥＸＣＯ中日本","composition":"ＮＥＸＣＯ 中日本","dependencies":"NEXCO ＮＥＸＣＯ 中日本","kanji":"中 日 本"}]}
+{"ent_seq":5747407}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
