@@ -1,6 +1,3 @@
-{"ent_seq":5501920,"k_ele":[{"keb":"拓成橋","composition":"拓成 橋","dependencies":"拓成 橋","kanji":"拓 成 橋"}]}
-{"ent_seq":5501921,"k_ele":[{"keb":"拓成町","kanji":"拓 成 町"}]}
-{"ent_seq":5501922,"k_ele":[{"keb":"拓正","composition":"拓 正","dependencies":"拓 正","kanji":"拓 正"}]}
 {"ent_seq":5501923,"k_ele":[{"keb":"拓生","kanji":"拓 生"}]}
 {"ent_seq":5501924,"k_ele":[{"keb":"拓誠","composition":"拓 誠","dependencies":"拓 誠","kanji":"拓 誠"}]}
 {"ent_seq":5501925,"k_ele":[{"keb":"拓川","kanji":"拓 川"}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5602384,"k_ele":[{"keb":"番匠町","kanji":"番 匠 町"}]}
 {"ent_seq":5602385,"k_ele":[{"keb":"番匠町","kanji":"番 匠 町"}]}
 {"ent_seq":5602386,"k_ele":[{"keb":"番匠田中","composition":"番匠 田中","dependencies":"番匠 田中","kanji":"番 匠 田 中"}]}
+{"ent_seq":5602387,"k_ele":[{"keb":"番匠田中町","kanji":"番 匠 田 中 町"}]}
+{"ent_seq":5602388,"k_ele":[{"keb":"番匠鼻","composition":"番匠 鼻","dependencies":"番匠 鼻","kanji":"番 匠 鼻"}]}
+{"ent_seq":5602389,"k_ele":[{"keb":"番匠免","kanji":"番 匠 免"}]}

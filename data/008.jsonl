@@ -1,6 +1,3 @@
-{"ent_seq":5702723,"k_ele":[{"keb":"隆佐","kanji":"隆 佐"}]}
-{"ent_seq":5702724,"k_ele":[{"keb":"隆哉","dependents":"山田隆哉","kanji":"隆 哉"}]}
-{"ent_seq":5702725,"k_ele":[{"keb":"隆哉","dependents":"山田隆哉","kanji":"隆 哉"}]}
 {"ent_seq":5702726,"k_ele":[{"keb":"隆哉","dependents":"山田隆哉","kanji":"隆 哉"}]}
 {"ent_seq":5702727,"k_ele":[{"keb":"隆埼","composition":"隆 埼","dependencies":"隆 埼","kanji":"隆 埼"}]}
 {"ent_seq":5702728,"k_ele":[{"keb":"隆作","kanji":"隆 作"}]}
@@ -43076,4 +43073,10 @@
 {"ent_seq":5747405,"k_ele":[{"keb":"中日本高速道路株式会社","composition":"中日本高速道路 株式会社","dependencies":"中日本 高速 道路 中日本高速道路 株式 会社 株式会社","kanji":"中 日 本 高 速 道 路 株 式 会 社"}]}
 {"ent_seq":5747406,"k_ele":[{"keb":"ＮＥＸＣＯ中日本","composition":"ＮＥＸＣＯ 中日本","dependencies":"NEXCO ＮＥＸＣＯ 中日本","kanji":"中 日 本"}]}
 {"ent_seq":5747407}
+{"ent_seq":5747408}
+{"ent_seq":5747409,"k_ele":[{"keb":"告森","dependents":"告森川","kanji":"告 森"}]}
+{"ent_seq":5747410}
+{"ent_seq":5747411,"k_ele":[{"keb":"フローレス海","composition":"フローレス 海","dependencies":"フローレス 海","kanji":"海"}]}
+{"ent_seq":5747412}
+{"ent_seq":5747414,"k_ele":[{"keb":"允聡","composition":"允 聡","dependencies":"允 聡","kanji":"允 聡"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
