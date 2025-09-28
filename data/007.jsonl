@@ -1,5 +1,3 @@
-{"ent_seq":5602390,"k_ele":[{"keb":"番匠面","composition":"番匠 面","dependencies":"番匠 面","kanji":"番 匠 面"}]}
-{"ent_seq":5602391,"k_ele":[{"keb":"番庄","kanji":"番 庄"}]}
 {"ent_seq":5602392,"k_ele":[{"keb":"番上","kanji":"番 上"}]}
 {"ent_seq":5602393,"k_ele":[{"keb":"番城","dependents":"番城山","kanji":"番 城"}]}
 {"ent_seq":5602394,"k_ele":[{"keb":"番城山","composition":"番城 山","dependencies":"番城 山","kanji":"番 城 山"}]}
@@ -10601,14 +10599,14 @@
 {"ent_seq":5613026,"k_ele":[{"keb":"百紀","composition":"百 紀","dependencies":"百 紀","kanji":"百 紀"}]}
 {"ent_seq":5613027,"k_ele":[{"keb":"百紀恵","composition":"百 紀恵","dependencies":"百 紀恵","kanji":"百 紀 恵"}]}
 {"ent_seq":5613028,"k_ele":[{"keb":"百輝","composition":"百 輝","dependencies":"百 輝","kanji":"百 輝"}]}
-{"ent_seq":5613029,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
-{"ent_seq":5613030,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
-{"ent_seq":5613031,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
-{"ent_seq":5613032,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
-{"ent_seq":5613033,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
-{"ent_seq":5613034,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
-{"ent_seq":5613035,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
-{"ent_seq":5613036,"k_ele":[{"keb":"百鬼","dependents":"百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613029,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613030,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613031,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613032,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613033,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613034,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613035,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
+{"ent_seq":5613036,"k_ele":[{"keb":"百鬼","dependents":"画図百鬼夜行 百鬼丸 百鬼史訓","kanji":"百 鬼"}]}
 {"ent_seq":5613037,"k_ele":[{"keb":"百鬼園","dependents":"内田百鬼園","kanji":"百 鬼 園"}]}
 {"ent_seq":5613038,"k_ele":[{"keb":"百鬼園","dependents":"内田百鬼園","kanji":"百 鬼 園"}]}
 {"ent_seq":5613039,"k_ele":[{"keb":"百鬼丸","composition":"百鬼 丸","dependencies":"百鬼 丸","kanji":"百 鬼 丸"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702723,"k_ele":[{"keb":"隆佐","kanji":"隆 佐"}]}
 {"ent_seq":5702724,"k_ele":[{"keb":"隆哉","dependents":"山田隆哉","kanji":"隆 哉"}]}
 {"ent_seq":5702725,"k_ele":[{"keb":"隆哉","dependents":"山田隆哉","kanji":"隆 哉"}]}
+{"ent_seq":5702726,"k_ele":[{"keb":"隆哉","dependents":"山田隆哉","kanji":"隆 哉"}]}
+{"ent_seq":5702727,"k_ele":[{"keb":"隆埼","composition":"隆 埼","dependencies":"隆 埼","kanji":"隆 埼"}]}

@@ -42528,8 +42528,7 @@
 {"ent_seq":5143272,"k_ele":[{"keb":"円彦","composition":"円 彦","dependencies":"円 彦","kanji":"円 彦"}]}
 {"ent_seq":5143273,"k_ele":[{"keb":"円夫","composition":"円 夫","dependencies":"円 夫","kanji":"円 夫"}]}
 {"ent_seq":5143274,"k_ele":[{"keb":"円富","kanji":"円 富"}]}
-{"ent_seq":5143275,"k_ele":[{"keb":"円舞","dependents":"円舞曲","kanji":"円 舞"}]}
-{"ent_seq":5143276,"k_ele":[{"keb":"円舞曲","composition":"円舞 曲","dependencies":"円舞 曲","kanji":"円 舞 曲"}]}
+{"ent_seq":5143275,"k_ele":[{"keb":"円舞","kanji":"円 舞"}]}
 {"ent_seq":5143277,"k_ele":[{"keb":"円舞子","composition":"円 舞子","dependencies":"円 舞子","kanji":"円 舞 子"}]}
 {"ent_seq":5143278,"k_ele":[{"keb":"円部","composition":"円 部","dependencies":"円 部","kanji":"円 部"}]}
 {"ent_seq":5143279,"k_ele":[{"keb":"円福","dependents":"円福院 畑屋敷円福院東ノ丁 畑屋敷円福院西ノ丁","kanji":"円 福"}]}
@@ -72384,7 +72383,7 @@
 {"ent_seq":5173235,"k_ele":[{"keb":"画一郎","composition":"画一 郎","dependencies":"画一 郎","kanji":"画 一 郎"}]}
 {"ent_seq":5173236,"k_ele":[{"keb":"画師","composition":"絵師","dependencies":"絵師","kanji":"画 師"}]}
 {"ent_seq":5173237,"k_ele":[{"keb":"画人","kanji":"画 人"}]}
-{"ent_seq":5173238,"k_ele":[{"keb":"画図","kanji":"画 図"}]}
+{"ent_seq":5173238,"k_ele":[{"keb":"画図","dependents":"画図百鬼夜行","kanji":"画 図"}]}
 {"ent_seq":5173239,"k_ele":[{"keb":"画図町下江津","composition":"画図町 下江津","dependencies":"画図町 下 江津 下江津","kanji":"画 図 町 下 江 津"}]}
 {"ent_seq":5173240,"k_ele":[{"keb":"画図町下無田","composition":"画図町 下無田","dependencies":"画図町 下無田","kanji":"画 図 町 下 無 田"}]}
 {"ent_seq":5173241,"k_ele":[{"keb":"画図町重富","composition":"画図町 重富","dependencies":"画図町 重富","kanji":"画 図 町 重 富"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200926,"k_ele":[{"keb":"季一郎","composition":"季一 郎","dependencies":"季一 郎","kanji":"季 一 郎"}]}
 {"ent_seq":5200927,"k_ele":[{"keb":"季壱","composition":"季 壱","dependencies":"季 一 壱","kanji":"季 壱"}]}
 {"ent_seq":5200928,"k_ele":[{"keb":"季壱朗","composition":"季 壱朗","dependencies":"季 壱朗","kanji":"季 壱 朗"}]}
+{"ent_seq":5200929,"k_ele":[{"keb":"季壱郎","composition":"季 壱郎","dependencies":"季 壱郎","kanji":"季 壱 郎"}]}
