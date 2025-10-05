@@ -33919,7 +33919,6 @@
 {"ent_seq":5034141,"k_ele":[{"keb":"ゴマ平ヒュッテ","composition":"ゴマ 平 ヒュッテ","dependencies":"ごま ゴマ 平 ヒュッテ","kanji":"平"}]}
 {"ent_seq":5034142}
 {"ent_seq":5034143,"k_ele":[{"keb":"ゴミキ谷","composition":"ゴミキ 谷","dependencies":"ゴミキ 谷","kanji":"谷"}]}
-{"ent_seq":5034144,"k_ele":[{"keb":"ゴミ処理場","composition":"ゴミ 処理 場","dependencies":"ゴミ 処理 場","kanji":"処 理 場"}]}
 {"ent_seq":5034145,"k_ele":[{"keb":"ゴミ焼却場","composition":"ゴミ 焼却 場","dependencies":"ゴミ 焼却 場","kanji":"焼 却 場"}]}
 {"ent_seq":5034146,"k_ele":[{"keb":"ゴミ沢","composition":"ゴミ 沢","dependencies":"ゴミ 沢","kanji":"沢"}]}
 {"ent_seq":5034147,"k_ele":[{"keb":"ゴミ沢","composition":"ゴミ 沢","dependencies":"ゴミ 沢","kanji":"沢"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100611,"k_ele":[{"keb":"阿県","kanji":"阿 県"}]}
 {"ent_seq":5100612,"k_ele":[{"keb":"阿見","dependents":"尺阿見 稲敷郡阿見町 阿見世 阿見乃 阿見代 阿見台 阿見子 阿見恵 阿見慧 阿見李 阿見枝 阿見梨 阿見江 阿見理 阿見町 阿見絵 阿見莉 阿見里 阿見野 阿見飛行場","kanji":"阿 見"}]}
 {"ent_seq":5100613,"k_ele":[{"keb":"阿見","dependents":"尺阿見 稲敷郡阿見町 阿見世 阿見乃 阿見代 阿見台 阿見子 阿見恵 阿見慧 阿見李 阿見枝 阿見梨 阿見江 阿見理 阿見町 阿見絵 阿見莉 阿見里 阿見野 阿見飛行場","kanji":"阿 見"}]}
+{"ent_seq":5100615,"k_ele":[{"keb":"阿見絵","composition":"阿見 絵","dependencies":"阿見 絵","kanji":"阿 見 絵"}]}

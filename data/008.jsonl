@@ -1,5 +1,3 @@
-{"ent_seq":5702728,"k_ele":[{"keb":"隆作","kanji":"隆 作"}]}
-{"ent_seq":5702729,"k_ele":[{"keb":"隆策","kanji":"隆 策"}]}
 {"ent_seq":5702730,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
 {"ent_seq":5702731,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
 {"ent_seq":5702732,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
@@ -43082,4 +43080,7 @@
 {"ent_seq":5747416,"k_ele":[{"keb":"成奏","composition":"成 奏","dependencies":"成 奏","kanji":"成 奏"}]}
 {"ent_seq":5747417,"k_ele":[{"keb":"画図百鬼夜行","composition":"画図 百鬼 夜行","dependencies":"画図 百鬼 夜行","kanji":"画 図 百 鬼 夜 行"}]}
 {"ent_seq":5747418}
+{"ent_seq":5747419,"k_ele":[{"keb":"沼河姫命","composition":"沼 河 姫 命","dependencies":"沼 河 姫 命","kanji":"沼 河 姫 命"}]}
+{"ent_seq":5747420,"k_ele":[{"keb":"野狐囲碁","composition":"野狐 囲碁","dependencies":"野狐 囲碁","kanji":"野 狐 囲 碁"}]}
+{"ent_seq":5747421,"k_ele":[{"keb":"野狐","dependents":"東野狐薮 東野狐藪 野狐台 野狐囲碁","kanji":"野 狐"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
