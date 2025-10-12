@@ -21776,10 +21776,10 @@
 {"ent_seq":5724556,"k_ele":[{"keb":"戀田","kanji":"戀 田"}]}
 {"ent_seq":5724557,"k_ele":[{"keb":"戀田","kanji":"戀 田"}]}
 {"ent_seq":5724558,"k_ele":[{"keb":"戀覆","composition":"戀 覆","dependencies":"恋 戀 覆","kanji":"戀 覆"}]}
-{"ent_seq":5724559,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
-{"ent_seq":5724560,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
-{"ent_seq":5724561,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
-{"ent_seq":5724562,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
+{"ent_seq":5724559,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 兼戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
+{"ent_seq":5724560,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 兼戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
+{"ent_seq":5724561,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 兼戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
+{"ent_seq":5724562,"k_ele":[{"keb":"戈","dependents":"佐々木六戈 六戈 兼戈 千戈橋 戈壁 戈尾 戈止夫 戈津 戈神 止戈夫 良戈 高戈","kanji":"戈"}]}
 {"ent_seq":5724563,"k_ele":[{"keb":"戈ノ元","kanji":"戈 元"}]}
 {"ent_seq":5724564,"k_ele":[{"keb":"戈止夫","composition":"戈 止夫","dependencies":"戈 止夫","kanji":"戈 止 夫"}]}
 {"ent_seq":5724565,"k_ele":[{"keb":"戈神","composition":"戈 神","dependencies":"戈 神","kanji":"戈 神"}]}
@@ -43083,4 +43083,10 @@
 {"ent_seq":5747419,"k_ele":[{"keb":"沼河姫命","composition":"沼 河 姫 命","dependencies":"沼 河 姫 命","kanji":"沼 河 姫 命"}]}
 {"ent_seq":5747420,"k_ele":[{"keb":"野狐囲碁","composition":"野狐 囲碁","dependencies":"野狐 囲碁","kanji":"野 狐 囲 碁"}]}
 {"ent_seq":5747421,"k_ele":[{"keb":"野狐","dependents":"東野狐薮 東野狐藪 野狐台 野狐囲碁","kanji":"野 狐"}]}
+{"ent_seq":5747422,"k_ele":[{"keb":"品川神社","composition":"品川 神社","dependencies":"品川 神社","kanji":"品 川 神 社"}]}
+{"ent_seq":5747423,"k_ele":[{"keb":"芝大神宮","composition":"芝 大神宮","dependencies":"芝 大 神宮 大神宮","kanji":"芝 大 神 宮"}]}
+{"ent_seq":5747424,"k_ele":[{"keb":"亀戸天神社","composition":"亀戸 天 神社","dependencies":"亀戸 天 神社","kanji":"亀 戸 天 神 社"}]}
+{"ent_seq":5747425,"k_ele":[{"keb":"ＤｅｅｐＬ翻訳","composition":"ＤｅｅｐＬ 翻訳","dependencies":"ＤｅｅｐＬ 翻訳","kanji":"翻 訳"},{"keb":"ディープエル翻訳","composition":"ディープエル 翻訳","dependencies":"ディープエル 翻訳","kanji":"翻 訳"}]}
+{"ent_seq":5747427}
+{"ent_seq":5747428,"k_ele":[{"keb":"兼戈","composition":"兼 戈","dependencies":"兼 戈","kanji":"兼 戈"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
