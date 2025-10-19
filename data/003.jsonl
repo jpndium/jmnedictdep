@@ -29155,7 +29155,6 @@
 {"ent_seq":5230200,"k_ele":[{"keb":"金鍾大","composition":"金 鍾 大","dependencies":"金 鍾 大","kanji":"金 鍾 大"}]}
 {"ent_seq":5230201,"k_ele":[{"keb":"金鍾徳","composition":"金 鍾徳","dependencies":"金 鍾徳","kanji":"金 鍾 徳"}]}
 {"ent_seq":5230202,"k_ele":[{"keb":"金鍾泌","composition":"金 鍾泌","dependencies":"金 鍾泌","kanji":"金 鍾 泌"}]}
-{"ent_seq":5230203,"k_ele":[{"keb":"金鍾泌","composition":"金 鍾泌","dependencies":"金 鍾泌","kanji":"金 鍾 泌"}]}
 {"ent_seq":5230204,"k_ele":[{"keb":"金鐘","dependents":"金鐘九 金鐘成 金鐘文 金鐘烈 金鐘珞","kanji":"金 鐘"}]}
 {"ent_seq":5230205,"k_ele":[{"keb":"金鐘","dependents":"金鐘九 金鐘成 金鐘文 金鐘烈 金鐘珞","kanji":"金 鐘"}]}
 {"ent_seq":5230206,"k_ele":[{"keb":"金鐘九","composition":"金鐘 九","dependencies":"金鐘 九","kanji":"金 鐘 九"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301279,"k_ele":[{"keb":"佐藤山","kanji":"佐 藤 山"}]}
 {"ent_seq":5301280,"k_ele":[{"keb":"佐藤史郎","composition":"佐藤 史郎","dependencies":"佐藤 史郎","kanji":"佐 藤 史 郎"}]}
 {"ent_seq":5301281,"k_ele":[{"keb":"佐藤嗣麻子","composition":"佐藤 嗣麻子","dependencies":"佐藤 嗣麻子","kanji":"佐 藤 嗣 麻 子"}]}
+{"ent_seq":5301282,"k_ele":[{"keb":"佐藤市郎","composition":"佐藤 市郎","dependencies":"佐藤 市郎","kanji":"佐 藤 市 郎"}]}
