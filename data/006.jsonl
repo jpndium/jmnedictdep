@@ -1,5 +1,3 @@
-{"ent_seq":5501927,"k_ele":[{"keb":"拓宋","composition":"拓 宋","dependencies":"拓 宋","kanji":"拓 宋"}]}
-{"ent_seq":5501928,"k_ele":[{"keb":"拓蔵","composition":"拓 蔵","dependencies":"拓 蔵","kanji":"拓 蔵"}]}
 {"ent_seq":5501929,"k_ele":[{"keb":"拓造","kanji":"拓 造"}]}
 {"ent_seq":5501930,"k_ele":[{"keb":"拓則","composition":"拓 則","dependencies":"拓 則","kanji":"拓 則"}]}
 {"ent_seq":5501931,"k_ele":[{"keb":"拓太郎","kanji":"拓 太 郎"}]}
@@ -4009,9 +4007,9 @@
 {"ent_seq":5505940,"k_ele":[{"keb":"担田","composition":"担 田","dependencies":"担 田","kanji":"担 田"}]}
 {"ent_seq":5505941,"k_ele":[{"keb":"担風","composition":"担 風","dependencies":"担 風","kanji":"担 風"}]}
 {"ent_seq":5505942,"k_ele":[{"keb":"担良","composition":"担 良","dependencies":"担 良","kanji":"担 良"}]}
-{"ent_seq":5505943,"k_ele":[{"keb":"探","dependents":"井田探 探丹生 探令 探女 探弩 探彈 探彑 探彗 探彿 探徃 探很 探玄 探真 探美 探道 探野 探風 桑探峠","kanji":"探"}]}
-{"ent_seq":5505944,"k_ele":[{"keb":"探","dependents":"井田探 探丹生 探令 探女 探弩 探彈 探彑 探彗 探彿 探徃 探很 探玄 探真 探美 探道 探野 探風 桑探峠","kanji":"探"}]}
-{"ent_seq":5505945,"k_ele":[{"keb":"探","dependents":"井田探 探丹生 探令 探女 探弩 探彈 探彑 探彗 探彿 探徃 探很 探玄 探真 探美 探道 探野 探風 桑探峠","kanji":"探"}]}
+{"ent_seq":5505943,"k_ele":[{"keb":"探","dependents":"井田探 探丹生 探令 探女 探弩 探彈 探彑 探彗 探彿 探徃 探很 探玄 探真 探美 探道 探野 探風 株探 桑探峠","kanji":"探"}]}
+{"ent_seq":5505944,"k_ele":[{"keb":"探","dependents":"井田探 探丹生 探令 探女 探弩 探彈 探彑 探彗 探彿 探徃 探很 探玄 探真 探美 探道 探野 探風 株探 桑探峠","kanji":"探"}]}
+{"ent_seq":5505945,"k_ele":[{"keb":"探","dependents":"井田探 探丹生 探令 探女 探弩 探彈 探彑 探彗 探彿 探徃 探很 探玄 探真 探美 探道 探野 探風 株探 桑探峠","kanji":"探"}]}
 {"ent_seq":5505946,"k_ele":[{"keb":"探元","kanji":"探 元"}]}
 {"ent_seq":5505947,"k_ele":[{"keb":"探玄","composition":"探 玄","dependencies":"探 玄","kanji":"探 玄"}]}
 {"ent_seq":5505948,"k_ele":[{"keb":"探山","kanji":"探 山"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5602392,"k_ele":[{"keb":"番上","kanji":"番 上"}]}
 {"ent_seq":5602393,"k_ele":[{"keb":"番城","dependents":"番城山","kanji":"番 城"}]}
 {"ent_seq":5602394,"k_ele":[{"keb":"番城山","composition":"番城 山","dependencies":"番城 山","kanji":"番 城 山"}]}
+{"ent_seq":5602395,"k_ele":[{"keb":"番場","dependents":"大聖寺番場 番場ちひろ 番場山 番場池 番場要","kanji":"番 場"}]}
+{"ent_seq":5602396,"k_ele":[{"keb":"番場","dependents":"大聖寺番場 番場ちひろ 番場山 番場池 番場要","kanji":"番 場"}]}

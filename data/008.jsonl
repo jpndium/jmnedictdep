@@ -1,5 +1,3 @@
-{"ent_seq":5702731,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
-{"ent_seq":5702732,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
 {"ent_seq":5702733,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
 {"ent_seq":5702734,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
 {"ent_seq":5702735,"k_ele":[{"keb":"隆三","dependents":"中西隆三 佐木隆三 佐藤隆三 大谷隆三 左木隆三 林隆三 森岡隆三 淀野隆三 田中隆三 菊島隆三 隆三杉","kanji":"隆 三"}]}
@@ -43092,4 +43090,10 @@
 {"ent_seq":5747429,"k_ele":[{"keb":"力都","kanji":"力 都"}]}
 {"ent_seq":5747430,"k_ele":[{"keb":"尹潽善","composition":"尹 潽善","dependencies":"尹 潽善","kanji":"尹 潽 善"}]}
 {"ent_seq":5747431}
+{"ent_seq":5747433,"k_ele":[{"keb":"株探","composition":"株 探","dependencies":"株 探","kanji":"株 探"}]}
+{"ent_seq":5747434,"k_ele":[{"keb":"ガリガリ君","composition":"ガリガリ 君","dependencies":"がりがり ガリガリ 君","kanji":"君"}]}
+{"ent_seq":5747435}
+{"ent_seq":5747436,"k_ele":[{"keb":"Ｐｉｘ"},{"keb":"ＰＩＸ"}]}
+{"ent_seq":5747437,"k_ele":[{"keb":"錦織圭","composition":"錦織 圭","dependencies":"錦織 圭","kanji":"錦 織 圭"}]}
+{"ent_seq":5747439}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

@@ -1,5 +1,3 @@
-{"ent_seq":5401545,"k_ele":[{"keb":"情赦","composition":"情 赦","dependencies":"情 赦","kanji":"情 赦"}]}
-{"ent_seq":5401546,"k_ele":[{"keb":"情多朗","composition":"情 多朗","dependencies":"情 多朗","kanji":"情 多 朗"}]}
 {"ent_seq":5401547,"k_ele":[{"keb":"情多郎","composition":"情 多郎","dependencies":"情 多郎","kanji":"情 多 郎"}]}
 {"ent_seq":5401548,"k_ele":[{"keb":"情太朗","composition":"情 太朗","dependencies":"情 太朗","kanji":"情 太 朗"}]}
 {"ent_seq":5401549,"k_ele":[{"keb":"情太郎","composition":"情 太郎","dependencies":"情 太郎","kanji":"情 太 郎"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501924,"k_ele":[{"keb":"拓誠","composition":"拓 誠","dependencies":"拓 誠","kanji":"拓 誠"}]}
 {"ent_seq":5501925,"k_ele":[{"keb":"拓川","kanji":"拓 川"}]}
 {"ent_seq":5501926,"k_ele":[{"keb":"拓川町","kanji":"拓 川 町"}]}
+{"ent_seq":5501927,"k_ele":[{"keb":"拓宋","composition":"拓 宋","dependencies":"拓 宋","kanji":"拓 宋"}]}
+{"ent_seq":5501928,"k_ele":[{"keb":"拓蔵","composition":"拓 蔵","dependencies":"拓 蔵","kanji":"拓 蔵"}]}
