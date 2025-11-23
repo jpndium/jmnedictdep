@@ -54994,20 +54994,7 @@
 {"ent_seq":5055371}
 {"ent_seq":5055372}
 {"ent_seq":5055373}
-{"ent_seq":5055374,"k_ele":[{"keb":"トヨタ自動車","composition":"トヨタ 自動車","dependencies":"トヨタ 自動車","dependents":"トヨタ自動車三好工場 トヨタ自動車上郷工場 トヨタ自動車下山工場 トヨタ自動車元町工場 トヨタ自動車堤工場 トヨタ自動車工場 トヨタ自動車明知工場 トヨタ自動車本社工場 トヨタ自動車研究所 トヨタ自動車試験場 トヨタ自動車貞宝工場 トヨタ自動車高岡工場","kanji":"自 動 車"}]}
-{"ent_seq":5055375,"k_ele":[{"keb":"トヨタ自動車下山工場","composition":"トヨタ自動車 下山 工場","dependencies":"トヨタ 自動車 トヨタ自動車 下山 工場","kanji":"自 動 車 下 山 工 場"}]}
-{"ent_seq":5055376,"k_ele":[{"keb":"トヨタ自動車九州工場","composition":"トヨタ自動車九州 工場","dependencies":"トヨタ 自動車 九州 トヨタ自動車九州 工場","kanji":"自 動 車 九 州 工 場"}]}
-{"ent_seq":5055377,"k_ele":[{"keb":"トヨタ自動車研究所","composition":"トヨタ自動車 研究所","dependencies":"トヨタ 自動車 トヨタ自動車 研究 所 研究所","kanji":"自 動 車 研 究 所"}]}
-{"ent_seq":5055378,"k_ele":[{"keb":"トヨタ自動車元町工場","composition":"トヨタ自動車 元町 工場","dependencies":"トヨタ 自動車 トヨタ自動車 元町 工場","kanji":"自 動 車 元 町 工 場"}]}
-{"ent_seq":5055379,"k_ele":[{"keb":"トヨタ自動車工場","composition":"トヨタ自動車 工場","dependencies":"トヨタ 自動車 トヨタ自動車 工場","kanji":"自 動 車 工 場"}]}
-{"ent_seq":5055380,"k_ele":[{"keb":"トヨタ自動車高岡工場","composition":"トヨタ自動車 高岡 工場","dependencies":"トヨタ 自動車 トヨタ自動車 高岡 工場","kanji":"自 動 車 高 岡 工 場"}]}
-{"ent_seq":5055381,"k_ele":[{"keb":"トヨタ自動車三好工場","composition":"トヨタ自動車 三好 工場","dependencies":"トヨタ 自動車 トヨタ自動車 三好 工場","kanji":"自 動 車 三 好 工 場"}]}
-{"ent_seq":5055382,"k_ele":[{"keb":"トヨタ自動車試験場","composition":"トヨタ自動車 試験場","dependencies":"トヨタ 自動車 トヨタ自動車 試験 場 試験場","kanji":"自 動 車 試 験 場"}]}
-{"ent_seq":5055383,"k_ele":[{"keb":"トヨタ自動車上郷工場","composition":"トヨタ自動車 上郷 工場","dependencies":"トヨタ 自動車 トヨタ自動車 上郷 工場","kanji":"自 動 車 上 郷 工 場"}]}
-{"ent_seq":5055384,"k_ele":[{"keb":"トヨタ自動車貞宝工場","composition":"トヨタ自動車 貞 宝 工場","dependencies":"トヨタ 自動車 トヨタ自動車 貞 宝 工場","kanji":"自 動 車 貞 宝 工 場"}]}
-{"ent_seq":5055385,"k_ele":[{"keb":"トヨタ自動車堤工場","composition":"トヨタ自動車 堤 工場","dependencies":"トヨタ 自動車 トヨタ自動車 堤 工場","kanji":"自 動 車 堤 工 場"}]}
-{"ent_seq":5055386,"k_ele":[{"keb":"トヨタ自動車本社工場","composition":"トヨタ自動車 本社 工場","dependencies":"トヨタ 自動車 トヨタ自動車 本社 工場","kanji":"自 動 車 本 社 工 場"}]}
-{"ent_seq":5055387,"k_ele":[{"keb":"トヨタ自動車明知工場","composition":"トヨタ自動車 明知 工場","dependencies":"トヨタ 自動車 トヨタ自動車 明知 工場","kanji":"自 動 車 明 知 工 場"}]}
+{"ent_seq":5055374,"k_ele":[{"keb":"トヨタ自動車","composition":"トヨタ 自動車","dependencies":"トヨタ 自動車","kanji":"自 動 車"}]}
 {"ent_seq":5055388,"k_ele":[{"keb":"トヨタ車体工場","composition":"トヨタ車体 工場","dependencies":"トヨタ 車体 トヨタ車体 工場","kanji":"車 体 工 場"}]}
 {"ent_seq":5055389,"k_ele":[{"keb":"トヨタ町","composition":"トヨタ 町","dependencies":"トヨタ 町","kanji":"町"}]}
 {"ent_seq":5055390,"k_ele":[{"keb":"トヨニ岳","composition":"トヨニ 岳","dependencies":"トヨニ 岳","kanji":"岳"}]}
@@ -99998,3 +99985,16 @@
 {"ent_seq":5100615,"k_ele":[{"keb":"阿見絵","composition":"阿見 絵","dependencies":"阿見 絵","kanji":"阿 見 絵"}]}
 {"ent_seq":5100616,"k_ele":[{"keb":"阿見恵","composition":"阿見 恵","dependencies":"阿見 恵","kanji":"阿 見 恵"}]}
 {"ent_seq":5100617,"k_ele":[{"keb":"阿見慧","composition":"阿見 慧","dependencies":"阿見 慧","kanji":"阿 見 慧"}]}
+{"ent_seq":5100618,"k_ele":[{"keb":"阿見江","composition":"阿見 江","dependencies":"阿見 江","kanji":"阿 見 江"}]}
+{"ent_seq":5100619,"k_ele":[{"keb":"阿見子","composition":"阿見 子","dependencies":"阿見 子","kanji":"阿 見 子"}]}
+{"ent_seq":5100620,"k_ele":[{"keb":"阿見枝","composition":"阿見 枝","dependencies":"阿見 枝","kanji":"阿 見 枝"}]}
+{"ent_seq":5100621,"k_ele":[{"keb":"阿見寺","kanji":"阿 見 寺"}]}
+{"ent_seq":5100622,"k_ele":[{"keb":"阿見世","composition":"阿見 世","dependencies":"阿見 世","kanji":"阿 見 世"}]}
+{"ent_seq":5100623,"k_ele":[{"keb":"阿見代","composition":"阿見 代","dependencies":"阿見 代","kanji":"阿 見 代"}]}
+{"ent_seq":5100624,"k_ele":[{"keb":"阿見台","composition":"阿見 台","dependencies":"阿見 台","kanji":"阿 見 台"}]}
+{"ent_seq":5100625,"k_ele":[{"keb":"阿見町","composition":"阿見 町","dependencies":"阿見 町","dependents":"稲敷郡阿見町","kanji":"阿 見 町"}]}
+{"ent_seq":5100626,"k_ele":[{"keb":"阿見乃","composition":"阿見 乃","dependencies":"阿見 の 乃","kanji":"阿 見 乃"}]}
+{"ent_seq":5100627,"k_ele":[{"keb":"阿見飛行場","composition":"阿見 飛行場","dependencies":"阿見 飛行 場 飛行場","kanji":"阿 見 飛 行 場"}]}
+{"ent_seq":5100628,"k_ele":[{"keb":"阿見野","composition":"阿見 野","dependencies":"阿見 野","kanji":"阿 見 野"}]}
+{"ent_seq":5100629,"k_ele":[{"keb":"阿見李","composition":"阿見 李","dependencies":"阿見 李","kanji":"阿 見 李"}]}
+{"ent_seq":5100630,"k_ele":[{"keb":"阿見梨","composition":"阿見 梨","dependencies":"阿見 梨","kanji":"阿 見 梨"}]}
