@@ -1,5 +1,3 @@
-{"ent_seq":5501942,"k_ele":[{"keb":"拓登","kanji":"拓 登"}]}
-{"ent_seq":5501943,"k_ele":[{"keb":"拓登","kanji":"拓 登"}]}
 {"ent_seq":5501944,"k_ele":[{"keb":"拓都","kanji":"拓 都"}]}
 {"ent_seq":5501945,"k_ele":[{"keb":"拓土","kanji":"拓 土"}]}
 {"ent_seq":5501946,"k_ele":[{"keb":"拓道","dependents":"前野拓道","kanji":"拓 道"}]}
@@ -8154,9 +8152,9 @@
 {"ent_seq":5510115,"k_ele":[{"keb":"智緒里","composition":"智 緒里","dependencies":"智 緒里","kanji":"智 緒 里"}]}
 {"ent_seq":5510116,"k_ele":[{"keb":"智助","kanji":"智 助"}]}
 {"ent_seq":5510117,"k_ele":[{"keb":"智女","composition":"智 女","dependencies":"智 女","kanji":"智 女"}]}
-{"ent_seq":5510118,"k_ele":[{"keb":"智勝","dependents":"智勝院","kanji":"智 勝"}]}
-{"ent_seq":5510119,"k_ele":[{"keb":"智勝","dependents":"智勝院","kanji":"智 勝"}]}
-{"ent_seq":5510120,"k_ele":[{"keb":"智勝","dependents":"智勝院","kanji":"智 勝"}]}
+{"ent_seq":5510118,"k_ele":[{"keb":"智勝","dependents":"智勝院 豊昇龍智勝","kanji":"智 勝"}]}
+{"ent_seq":5510119,"k_ele":[{"keb":"智勝","dependents":"智勝院 豊昇龍智勝","kanji":"智 勝"}]}
+{"ent_seq":5510120,"k_ele":[{"keb":"智勝","dependents":"智勝院 豊昇龍智勝","kanji":"智 勝"}]}
 {"ent_seq":5510121,"k_ele":[{"keb":"智勝院","composition":"智勝 院","dependencies":"智勝 院","kanji":"智 勝 院"}]}
 {"ent_seq":5510122,"k_ele":[{"keb":"智将","composition":"知将","dependencies":"知将","kanji":"智 将"}]}
 {"ent_seq":5510123,"k_ele":[{"keb":"智小恵","composition":"智 小恵","dependencies":"智 小恵","kanji":"智 小 恵"}]}
@@ -33536,7 +33534,7 @@
 {"ent_seq":5535589,"k_ele":[{"keb":"鶴留","kanji":"鶴 留"}]}
 {"ent_seq":5535590,"k_ele":[{"keb":"鶴留","kanji":"鶴 留"}]}
 {"ent_seq":5535591,"k_ele":[{"keb":"鶴留","kanji":"鶴 留"}]}
-{"ent_seq":5535592,"k_ele":[{"keb":"鶴竜","kanji":"鶴 竜"}]}
+{"ent_seq":5535592,"k_ele":[{"keb":"鶴竜","dependents":"鶴竜力三郎","kanji":"鶴 竜"}]}
 {"ent_seq":5535593,"k_ele":[{"keb":"鶴龍","composition":"鶴 龍","dependencies":"鶴 竜 龍","kanji":"鶴 龍"}]}
 {"ent_seq":5535594,"k_ele":[{"keb":"鶴了","composition":"鶴 了","dependencies":"鶴 了","kanji":"鶴 了"}]}
 {"ent_seq":5535595,"k_ele":[{"keb":"鶴梁","composition":"鶴 梁","dependencies":"鶴 梁","kanji":"鶴 梁"}]}
@@ -51165,7 +51163,7 @@
 {"ent_seq":5553313,"k_ele":[{"keb":"東京鉄骨工場","composition":"東京 鉄骨 工場","dependencies":"東京 鉄骨 工場","kanji":"東 京 鉄 骨 工 場"}]}
 {"ent_seq":5553314,"k_ele":[{"keb":"東京天文台","composition":"東京 天文台","dependencies":"東京 天文 台 天文台","kanji":"東 京 天 文 台"}]}
 {"ent_seq":5553315,"k_ele":[{"keb":"東京田","composition":"東京 田","dependencies":"東京 田","kanji":"東 京 田"}]}
-{"ent_seq":5553316,"k_ele":[{"keb":"東京田中千代服飾専門学校","composition":"東京 田中 千代 服飾 専門学校","dependencies":"東京 田中 千代 服飾 専門 学校 専門学校","kanji":"東 京 田 中 千 代 服 飾 専 門 学 校"}]}
+{"ent_seq":5553316,"k_ele":[{"keb":"渋谷ファッション＆アート専門学校","composition":"渋谷 ファッション ＆ アート 専門学校","dependencies":"渋谷 ファッション & ＆ アート 専門 学校 専門学校","kanji":"渋 谷 専 門 学 校"}]}
 {"ent_seq":5553317,"k_ele":[{"keb":"東京田中短期大学","composition":"東京 田中 短期大学","dependencies":"東京 田中 短期 大学 短期大学","kanji":"東 京 田 中 短 期 大 学"}]}
 {"ent_seq":5553318,"k_ele":[{"keb":"東京電機大学","composition":"東京 電機 大学","dependencies":"東京 電機 大学","kanji":"東 京 電 機 大 学"}]}
 {"ent_seq":5553319,"k_ele":[{"keb":"東京電力","composition":"東京 電力","dependencies":"東京 電力","dependents":"東京電力変電所 東京電力株式会社 東京電力管理道路 東京電力送電所","kanji":"東 京 電 力"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5602407,"k_ele":[{"keb":"番尻","composition":"番 尻","dependencies":"番 尻","kanji":"番 尻"}]}
 {"ent_seq":5602408,"k_ele":[{"keb":"番神","dependents":"番神堂 番神山 番神岬","kanji":"番 神"}]}
 {"ent_seq":5602409,"k_ele":[{"keb":"番神山","composition":"番神 山","dependencies":"番神 山","kanji":"番 神 山"}]}
+{"ent_seq":5602410,"k_ele":[{"keb":"番神山","composition":"番神 山","dependencies":"番神 山","kanji":"番 神 山"}]}
+{"ent_seq":5602411,"k_ele":[{"keb":"番神堂","composition":"番神 堂","dependencies":"番神 堂","kanji":"番 神 堂"}]}
