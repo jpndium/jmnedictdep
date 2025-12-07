@@ -1,5 +1,3 @@
-{"ent_seq":5501944,"k_ele":[{"keb":"拓都","kanji":"拓 都"}]}
-{"ent_seq":5501945,"k_ele":[{"keb":"拓土","kanji":"拓 土"}]}
 {"ent_seq":5501946,"k_ele":[{"keb":"拓道","dependents":"前野拓道","kanji":"拓 道"}]}
 {"ent_seq":5501947,"k_ele":[{"keb":"拓道","dependents":"前野拓道","kanji":"拓 道"}]}
 {"ent_seq":5501948,"k_ele":[{"keb":"拓二","kanji":"拓 二"}]}
@@ -68331,7 +68329,7 @@
 {"ent_seq":5570590,"k_ele":[{"keb":"那倉","dependents":"那倉川","kanji":"那 倉"}]}
 {"ent_seq":5570591,"k_ele":[{"keb":"那倉","dependents":"那倉川","kanji":"那 倉"}]}
 {"ent_seq":5570592,"k_ele":[{"keb":"那倉川","composition":"那倉 川","dependencies":"那倉 川","kanji":"那 倉 川"}]}
-{"ent_seq":5570593,"k_ele":[{"keb":"那多","dependents":"姫那多 日那多","kanji":"那 多"}]}
+{"ent_seq":5570593,"k_ele":[{"keb":"那多","dependents":"伽那多 加那多 姫那多 日那多","kanji":"那 多"}]}
 {"ent_seq":5570594,"k_ele":[{"keb":"那代","dependents":"詩那代","kanji":"那 代"}]}
 {"ent_seq":5570595,"k_ele":[{"keb":"那谷","dependents":"宇那谷 那谷敏郎","kanji":"那 谷"}]}
 {"ent_seq":5570596,"k_ele":[{"keb":"那谷","dependents":"宇那谷 那谷敏郎","kanji":"那 谷"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5602409,"k_ele":[{"keb":"番神山","composition":"番神 山","dependencies":"番神 山","kanji":"番 神 山"}]}
 {"ent_seq":5602410,"k_ele":[{"keb":"番神山","composition":"番神 山","dependencies":"番神 山","kanji":"番 神 山"}]}
 {"ent_seq":5602411,"k_ele":[{"keb":"番神堂","composition":"番神 堂","dependencies":"番神 堂","kanji":"番 神 堂"}]}
+{"ent_seq":5602412,"k_ele":[{"keb":"番神岬","composition":"番神 岬","dependencies":"番神 岬","kanji":"番 神 岬"}]}
+{"ent_seq":5602413,"k_ele":[{"keb":"番水","kanji":"番 水"}]}

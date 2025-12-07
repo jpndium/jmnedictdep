@@ -42405,7 +42405,6 @@
 {"ent_seq":5042695}
 {"ent_seq":5042696,"k_ele":[{"keb":"ジンガラン湾","composition":"ジンガラン 湾","dependencies":"ジンガラン 湾","kanji":"湾"}]}
 {"ent_seq":5042697}
-{"ent_seq":5042698}
 {"ent_seq":5042699}
 {"ent_seq":5042700,"k_ele":[{"keb":"ジンギス汗","composition":"ジンギス 汗","dependencies":"チンギス ジンギス 汗","kanji":"汗"}]}
 {"ent_seq":5042701}
@@ -84459,9 +84458,8 @@
 {"ent_seq":5085003}
 {"ent_seq":5085004}
 {"ent_seq":5085005}
-{"ent_seq":5085006}
 {"ent_seq":5085007}
-{"ent_seq":5085008,"k_ele":[{"keb":"メッシナ海峡","composition":"メッシナ 海峡","dependencies":"メッシーナ メッシナ 海峡","kanji":"海 峡"}]}
+{"ent_seq":5085008,"k_ele":[{"keb":"メッシーナ海峡","composition":"メッシーナ 海峡","dependencies":"メッシーナ 海峡","kanji":"海 峡"},{"keb":"メッシナ海峡","composition":"メッシナ 海峡","dependencies":"メッシーナ メッシナ 海峡","kanji":"海 峡"}]}
 {"ent_seq":5085009}
 {"ent_seq":5085010}
 {"ent_seq":5085011}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5100628,"k_ele":[{"keb":"阿見野","composition":"阿見 野","dependencies":"阿見 野","kanji":"阿 見 野"}]}
 {"ent_seq":5100629,"k_ele":[{"keb":"阿見李","composition":"阿見 李","dependencies":"阿見 李","kanji":"阿 見 李"}]}
 {"ent_seq":5100630,"k_ele":[{"keb":"阿見梨","composition":"阿見 梨","dependencies":"阿見 梨","kanji":"阿 見 梨"}]}
+{"ent_seq":5100631,"k_ele":[{"keb":"阿見理","composition":"阿見 理","dependencies":"阿見 理","kanji":"阿 見 理"}]}
+{"ent_seq":5100632,"k_ele":[{"keb":"阿見里","composition":"阿見 里","dependencies":"阿見 里","kanji":"阿 見 里"}]}

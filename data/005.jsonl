@@ -1,5 +1,3 @@
-{"ent_seq":5401562,"k_ele":[{"keb":"情之祐","composition":"情 之 祐","dependencies":"情 此れ 之 祐","kanji":"情 之 祐"}]}
-{"ent_seq":5401563,"k_ele":[{"keb":"情之亮","composition":"情 之 亮","dependencies":"情 此れ 之 亮","kanji":"情 之 亮"}]}
 {"ent_seq":5401564,"k_ele":[{"keb":"情埜","composition":"情 埜","dependencies":"情 埜","kanji":"情 埜"}]}
 {"ent_seq":5401565,"k_ele":[{"keb":"情報処理教育研修助成財団","composition":"情報処理 教育研修 助成 財団","dependencies":"情報 処理 情報処理 教育 研修 教育研修 助成 財団","kanji":"情 報 処 理 教 育 研 修 助 成 財 団"}]}
 {"ent_seq":5401566,"k_ele":[{"keb":"情報処理推進機構","composition":"情報処理 推進 機構","dependencies":"情報 処理 情報処理 推進 機構","kanji":"情 報 処 理 推 進 機 構"}]}
@@ -50705,12 +50703,12 @@
 {"ent_seq":5452435,"k_ele":[{"keb":"静祐","composition":"静 祐","dependencies":"静 祐","kanji":"静 祐"}]}
 {"ent_seq":5452436,"k_ele":[{"keb":"静裕","composition":"静 裕","dependencies":"静 裕","kanji":"静 裕"}]}
 {"ent_seq":5452437,"k_ele":[{"keb":"静裕","composition":"静 裕","dependencies":"静 裕","kanji":"静 裕"}]}
-{"ent_seq":5452438,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
-{"ent_seq":5452439,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
-{"ent_seq":5452440,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
-{"ent_seq":5452441,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
-{"ent_seq":5452442,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
-{"ent_seq":5452443,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
+{"ent_seq":5452438,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 松岡静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
+{"ent_seq":5452439,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 松岡静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
+{"ent_seq":5452440,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 松岡静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
+{"ent_seq":5452441,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 松岡静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
+{"ent_seq":5452442,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 松岡静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
+{"ent_seq":5452443,"k_ele":[{"keb":"静雄","dependents":"伊東静雄 北野静雄 和田静雄 松岡静雄 棚橋静雄 濱田静雄 白井静雄 辻静雄 野波静雄","kanji":"静 雄"}]}
 {"ent_seq":5452444,"k_ele":[{"keb":"静夕","composition":"静 夕","dependencies":"静 夕","kanji":"静 夕"}]}
 {"ent_seq":5452445,"k_ele":[{"keb":"静与","kanji":"静 与"}]}
 {"ent_seq":5452446,"k_ele":[{"keb":"静洋","composition":"静 洋","dependencies":"静 洋","kanji":"静 洋"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501941,"k_ele":[{"keb":"拓斗","kanji":"拓 斗"}]}
 {"ent_seq":5501942,"k_ele":[{"keb":"拓登","kanji":"拓 登"}]}
 {"ent_seq":5501943,"k_ele":[{"keb":"拓登","kanji":"拓 登"}]}
+{"ent_seq":5501944,"k_ele":[{"keb":"拓都","kanji":"拓 都"}]}
+{"ent_seq":5501945,"k_ele":[{"keb":"拓土","kanji":"拓 土"}]}
