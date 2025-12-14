@@ -1,7 +1,3 @@
-{"ent_seq":5501946,"k_ele":[{"keb":"拓道","dependents":"前野拓道","kanji":"拓 道"}]}
-{"ent_seq":5501947,"k_ele":[{"keb":"拓道","dependents":"前野拓道","kanji":"拓 道"}]}
-{"ent_seq":5501948,"k_ele":[{"keb":"拓二","kanji":"拓 二"}]}
-{"ent_seq":5501949,"k_ele":[{"keb":"拓二郎","kanji":"拓 二 郎"}]}
 {"ent_seq":5501950,"k_ele":[{"keb":"拓之","dependents":"森拓之","kanji":"拓 之"}]}
 {"ent_seq":5501951,"k_ele":[{"keb":"拓之","dependents":"森拓之","kanji":"拓 之"}]}
 {"ent_seq":5501952,"k_ele":[{"keb":"拓農","composition":"拓 農","dependencies":"拓 農","kanji":"拓 農"}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5602411,"k_ele":[{"keb":"番神堂","composition":"番神 堂","dependencies":"番神 堂","kanji":"番 神 堂"}]}
 {"ent_seq":5602412,"k_ele":[{"keb":"番神岬","composition":"番神 岬","dependencies":"番神 岬","kanji":"番 神 岬"}]}
 {"ent_seq":5602413,"k_ele":[{"keb":"番水","kanji":"番 水"}]}
+{"ent_seq":5602414,"k_ele":[{"keb":"番随","kanji":"番 随"}]}
+{"ent_seq":5602415,"k_ele":[{"keb":"番正","kanji":"番 正"}]}
+{"ent_seq":5602416,"k_ele":[{"keb":"番清","kanji":"番 清"}]}
+{"ent_seq":5602417,"k_ele":[{"keb":"番生寺","kanji":"番 生 寺"}]}

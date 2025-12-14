@@ -42405,7 +42405,6 @@
 {"ent_seq":5042695}
 {"ent_seq":5042696,"k_ele":[{"keb":"ジンガラン湾","composition":"ジンガラン 湾","dependencies":"ジンガラン 湾","kanji":"湾"}]}
 {"ent_seq":5042697}
-{"ent_seq":5042699}
 {"ent_seq":5042700,"k_ele":[{"keb":"ジンギス汗","composition":"ジンギス 汗","dependencies":"チンギス ジンギス 汗","kanji":"汗"}]}
 {"ent_seq":5042701}
 {"ent_seq":5042702}
@@ -50830,10 +50829,8 @@
 {"ent_seq":5051179}
 {"ent_seq":5051180}
 {"ent_seq":5051181}
-{"ent_seq":5051182}
-{"ent_seq":5051183}
 {"ent_seq":5051184,"k_ele":[{"keb":"チンギス汗","composition":"チンギス 汗","dependencies":"チンギス 汗","kanji":"汗"}]}
-{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗","composition":"チンギスハン","dependencies":"チンギスハン","kanji":"成 吉 思 汗"},{"keb":"チンギス汗","composition":"チンギス 汗","dependencies":"チンギス 汗","kanji":"汗"}]}
+{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗","composition":"チンギスハン","dependencies":"チンギスハン","kanji":"成 吉 思 汗"}]}
 {"ent_seq":5051186}
 {"ent_seq":5051187,"k_ele":[{"keb":"チンギリリカ川","composition":"チンギリリカ 川","dependencies":"チンギリリカ 川","kanji":"川"}]}
 {"ent_seq":5051188,"k_ele":[{"keb":"チンギ島","composition":"チンギ 島","dependencies":"チンギ 島","kanji":"島"}]}
@@ -99998,3 +99995,6 @@
 {"ent_seq":5100630,"k_ele":[{"keb":"阿見梨","composition":"阿見 梨","dependencies":"阿見 梨","kanji":"阿 見 梨"}]}
 {"ent_seq":5100631,"k_ele":[{"keb":"阿見理","composition":"阿見 理","dependencies":"阿見 理","kanji":"阿 見 理"}]}
 {"ent_seq":5100632,"k_ele":[{"keb":"阿見里","composition":"阿見 里","dependencies":"阿見 里","kanji":"阿 見 里"}]}
+{"ent_seq":5100633,"k_ele":[{"keb":"阿見莉","composition":"阿見 莉","dependencies":"阿見 莉","kanji":"阿 見 莉"}]}
+{"ent_seq":5100634,"k_ele":[{"keb":"阿元","kanji":"阿 元"}]}
+{"ent_seq":5100635,"k_ele":[{"keb":"阿原","dependents":"上阿原 北野阿原 清水阿原 紙漉阿原 阿原口 阿原山 阿原山牧場 阿原峠 阿原池 阿原田 阿原目","kanji":"阿 原"}]}
