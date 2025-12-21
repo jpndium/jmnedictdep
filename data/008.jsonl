@@ -1,5 +1,3 @@
-{"ent_seq":5702754,"k_ele":[{"keb":"隆史","dependents":"三村隆史 井上隆史 反町隆史 合田隆史 宇都宮隆史 小倉隆史 小村隆史 岡村隆史 川村隆史 成田隆史 稲垣隆史 立川隆史 轡田隆史 酒井隆史","kanji":"隆 史"}]}
-{"ent_seq":5702755,"k_ele":[{"keb":"隆史","dependents":"三村隆史 井上隆史 反町隆史 合田隆史 宇都宮隆史 小倉隆史 小村隆史 岡村隆史 川村隆史 成田隆史 稲垣隆史 立川隆史 轡田隆史 酒井隆史","kanji":"隆 史"}]}
 {"ent_seq":5702756,"k_ele":[{"keb":"隆史","dependents":"三村隆史 井上隆史 反町隆史 合田隆史 宇都宮隆史 小倉隆史 小村隆史 岡村隆史 川村隆史 成田隆史 稲垣隆史 立川隆史 轡田隆史 酒井隆史","kanji":"隆 史"}]}
 {"ent_seq":5702757,"k_ele":[{"keb":"隆史","dependents":"三村隆史 井上隆史 反町隆史 合田隆史 宇都宮隆史 小倉隆史 小村隆史 岡村隆史 川村隆史 成田隆史 稲垣隆史 立川隆史 轡田隆史 酒井隆史","kanji":"隆 史"}]}
 {"ent_seq":5702758,"k_ele":[{"keb":"隆嗣","dependents":"吉田隆嗣","kanji":"隆 嗣"}]}
@@ -43118,4 +43116,11 @@
 {"ent_seq":5747480,"k_ele":[{"keb":"方計","composition":"方 計","dependencies":"方 計","kanji":"方 計"}]}
 {"ent_seq":5747481}
 {"ent_seq":5747482,"k_ele":[{"keb":"法条","kanji":"法 条"}]}
+{"ent_seq":5747484,"k_ele":[{"keb":"牧人ひつじを","composition":"牧人 ひつじ を","dependencies":"牧人 羊 ひつじ を","kanji":"牧 人"},{"keb":"牧人羊を","composition":"牧人 羊 を","dependencies":"牧人 羊 を","kanji":"牧 人 羊"}]}
+{"ent_seq":5747485,"k_ele":[{"keb":"ワフド党","composition":"ワフド 党","dependencies":"ワフド 党","kanji":"党"}]}
+{"ent_seq":5747486,"k_ele":[{"keb":"新進党","composition":"新進 党","dependencies":"新進 党","kanji":"新 進 党"}]}
+{"ent_seq":5747487,"k_ele":[{"keb":"ボストン茶会事件","composition":"ボストン 茶会 事件","dependencies":"ボストン 茶会 事件","kanji":"茶 会 事 件"}]}
+{"ent_seq":5747488,"k_ele":[{"keb":"任男","composition":"任 男","dependencies":"任 男","kanji":"任 男"}]}
+{"ent_seq":5747489,"k_ele":[{"keb":"瞬馬","kanji":"瞬 馬"}]}
+{"ent_seq":5747490,"k_ele":[{"keb":"圡屋","kanji":"圡 屋"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

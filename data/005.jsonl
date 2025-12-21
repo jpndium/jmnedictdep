@@ -1,5 +1,3 @@
-{"ent_seq":5401567,"k_ele":[{"keb":"情報処理相互運用技術協会","composition":"情報処理 相互 運用 技術 協会","dependencies":"情報 処理 情報処理 相互 運用 技術 協会","kanji":"情 報 処 理 相 互 運 用 技 術 協 会"}]}
-{"ent_seq":5401568,"k_ele":[{"keb":"情報図書館","composition":"情報 図書館","dependencies":"情報 図書 館 図書館","kanji":"情 報 図 書 館"}]}
 {"ent_seq":5401569,"k_ele":[{"keb":"情報知識学会","composition":"情報 知識 学会","dependencies":"情報 知識 学会","kanji":"情 報 知 識 学 会"}]}
 {"ent_seq":5401570,"k_ele":[{"keb":"情報通信政策研究所","composition":"情報 通信 政策 研究所","dependencies":"情報 通信 政策 研究 所 研究所","kanji":"情 報 通 信 政 策 研 究 所"}]}
 {"ent_seq":5401571,"k_ele":[{"keb":"情報文化学会","composition":"情報 文化 学会","dependencies":"情報 文化 学会","kanji":"情 報 文 化 学 会"}]}
@@ -5977,7 +5975,7 @@
 {"ent_seq":5407566,"k_ele":[{"keb":"新神田","kanji":"新 神 田"}]}
 {"ent_seq":5407567,"k_ele":[{"keb":"新神明","kanji":"新 神 明"}]}
 {"ent_seq":5407568,"k_ele":[{"keb":"新神野","kanji":"新 神 野"}]}
-{"ent_seq":5407569,"k_ele":[{"keb":"新進","kanji":"新 進"}]}
+{"ent_seq":5407569,"k_ele":[{"keb":"新進","dependents":"新進党","kanji":"新 進"}]}
 {"ent_seq":5407570,"k_ele":[{"keb":"新人","kanji":"新 人"}]}
 {"ent_seq":5407571,"k_ele":[{"keb":"新人民軍","composition":"新 人民 軍","dependencies":"新 人民 軍","kanji":"新 人 民 軍"}]}
 {"ent_seq":5407572,"k_ele":[{"keb":"新尋","kanji":"新 尋"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501947,"k_ele":[{"keb":"拓道","dependents":"前野拓道","kanji":"拓 道"}]}
 {"ent_seq":5501948,"k_ele":[{"keb":"拓二","kanji":"拓 二"}]}
 {"ent_seq":5501949,"k_ele":[{"keb":"拓二郎","kanji":"拓 二 郎"}]}
+{"ent_seq":5501950,"k_ele":[{"keb":"拓之","dependents":"森拓之","kanji":"拓 之"}]}
+{"ent_seq":5501951,"k_ele":[{"keb":"拓之","dependents":"森拓之","kanji":"拓 之"}]}
