@@ -1,4 +1,3 @@
-{"ent_seq":5501952,"k_ele":[{"keb":"拓農","composition":"拓 農","dependencies":"拓 農","kanji":"拓 農"}]}
 {"ent_seq":5501953,"k_ele":[{"keb":"拓馬","dependents":"篠田拓馬","kanji":"拓 馬"}]}
 {"ent_seq":5501954,"k_ele":[{"keb":"拓飛","composition":"拓 飛","dependencies":"拓 飛","kanji":"拓 飛"}]}
 {"ent_seq":5501955,"k_ele":[{"keb":"拓美","dependents":"西尾拓美","kanji":"拓 美"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5602417,"k_ele":[{"keb":"番生寺","kanji":"番 生 寺"}]}
 {"ent_seq":5602418,"k_ele":[{"keb":"番川","dependents":"番川原","kanji":"番 川"}]}
 {"ent_seq":5602419,"k_ele":[{"keb":"番川原","composition":"番川 原","dependencies":"番川 原","kanji":"番 川 原"}]}
+{"ent_seq":5602420,"k_ele":[{"keb":"番前","kanji":"番 前"}]}
