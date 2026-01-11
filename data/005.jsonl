@@ -1,7 +1,3 @@
-{"ent_seq":5401569,"k_ele":[{"keb":"情報知識学会","composition":"情報 知識 学会","dependencies":"情報 知識 学会","kanji":"情 報 知 識 学 会"}]}
-{"ent_seq":5401570,"k_ele":[{"keb":"情報通信政策研究所","composition":"情報 通信 政策 研究所","dependencies":"情報 通信 政策 研究 所 研究所","kanji":"情 報 通 信 政 策 研 究 所"}]}
-{"ent_seq":5401571,"k_ele":[{"keb":"情報文化学会","composition":"情報 文化 学会","dependencies":"情報 文化 学会","kanji":"情 報 文 化 学 会"}]}
-{"ent_seq":5401572,"k_ele":[{"keb":"情報本部","composition":"情報 本部","dependencies":"情報 本部","kanji":"情 報 本 部"}]}
 {"ent_seq":5401573,"k_ele":[{"keb":"情民","composition":"情 民","dependencies":"情 民","kanji":"情 民"}]}
 {"ent_seq":5401574,"k_ele":[{"keb":"情野","kanji":"情 野"}]}
 {"ent_seq":5401575,"k_ele":[{"keb":"情野","kanji":"情 野"}]}
@@ -18043,8 +18039,8 @@
 {"ent_seq":5419677,"k_ele":[{"keb":"進兵","kanji":"進 兵"}]}
 {"ent_seq":5419678,"k_ele":[{"keb":"進平","kanji":"進 平"}]}
 {"ent_seq":5419679,"k_ele":[{"keb":"進保","composition":"進 保","dependencies":"進 保","kanji":"進 保"}]}
-{"ent_seq":5419680,"k_ele":[{"keb":"進歩","dependents":"民族進歩連合 進歩主義 進歩主義教育協会 進歩人民同盟 進歩保守党","kanji":"進 歩"}]}
-{"ent_seq":5419681,"k_ele":[{"keb":"進歩","dependents":"民族進歩連合 進歩主義 進歩主義教育協会 進歩人民同盟 進歩保守党","kanji":"進 歩"}]}
+{"ent_seq":5419680,"k_ele":[{"keb":"進歩","dependents":"民族進歩連合 進歩主義 進歩主義教育協会 進歩人民同盟 進歩保守党 進歩同盟","kanji":"進 歩"}]}
+{"ent_seq":5419681,"k_ele":[{"keb":"進歩","dependents":"民族進歩連合 進歩主義 進歩主義教育協会 進歩人民同盟 進歩保守党 進歩同盟","kanji":"進 歩"}]}
 {"ent_seq":5419682,"k_ele":[{"keb":"進歩主義教育協会","composition":"進歩主義 教育 協会","dependencies":"進歩 主義 進歩主義 教育 協会","kanji":"進 歩 主 義 教 育 協 会"}]}
 {"ent_seq":5419683,"k_ele":[{"keb":"進歩人民同盟","composition":"進歩 人民 同盟","dependencies":"進歩 人民 同盟","kanji":"進 歩 人 民 同 盟"}]}
 {"ent_seq":5419684,"k_ele":[{"keb":"進歩保守党","composition":"進歩 保守 党","dependencies":"進歩 保守 党","kanji":"進 歩 保 守 党"}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5501950,"k_ele":[{"keb":"拓之","dependents":"森拓之","kanji":"拓 之"}]}
 {"ent_seq":5501951,"k_ele":[{"keb":"拓之","dependents":"森拓之","kanji":"拓 之"}]}
 {"ent_seq":5501952,"k_ele":[{"keb":"拓農","composition":"拓 農","dependencies":"拓 農","kanji":"拓 農"}]}
+{"ent_seq":5501953,"k_ele":[{"keb":"拓馬","dependents":"篠田拓馬","kanji":"拓 馬"}]}
+{"ent_seq":5501954,"k_ele":[{"keb":"拓飛","composition":"拓 飛","dependencies":"拓 飛","kanji":"拓 飛"}]}
+{"ent_seq":5501955,"k_ele":[{"keb":"拓美","dependents":"西尾拓美","kanji":"拓 美"}]}
+{"ent_seq":5501956,"k_ele":[{"keb":"拓美","dependents":"西尾拓美","kanji":"拓 美"}]}

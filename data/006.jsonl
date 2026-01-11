@@ -1,7 +1,3 @@
-{"ent_seq":5501953,"k_ele":[{"keb":"拓馬","dependents":"篠田拓馬","kanji":"拓 馬"}]}
-{"ent_seq":5501954,"k_ele":[{"keb":"拓飛","composition":"拓 飛","dependencies":"拓 飛","kanji":"拓 飛"}]}
-{"ent_seq":5501955,"k_ele":[{"keb":"拓美","dependents":"西尾拓美","kanji":"拓 美"}]}
-{"ent_seq":5501956,"k_ele":[{"keb":"拓美","dependents":"西尾拓美","kanji":"拓 美"}]}
 {"ent_seq":5501957,"k_ele":[{"keb":"拓美","dependents":"西尾拓美","kanji":"拓 美"}]}
 {"ent_seq":5501958,"k_ele":[{"keb":"拓彦","kanji":"拓 彦"}]}
 {"ent_seq":5501959,"k_ele":[{"keb":"拓敏","kanji":"拓 敏"}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5602418,"k_ele":[{"keb":"番川","dependents":"番川原","kanji":"番 川"}]}
 {"ent_seq":5602419,"k_ele":[{"keb":"番川原","composition":"番川 原","dependencies":"番川 原","kanji":"番 川 原"}]}
 {"ent_seq":5602420,"k_ele":[{"keb":"番前","kanji":"番 前"}]}
+{"ent_seq":5602421,"k_ele":[{"keb":"番組","dependents":"七番組 三番組 下一番組 下三番組 下二番組 下五番組 下六番組 下四番組 九番組 二番組 六番組 四番組","kanji":"番 組"}]}
+{"ent_seq":5602422,"k_ele":[{"keb":"番組町","kanji":"番 組 町"}]}
+{"ent_seq":5602423,"k_ele":[{"keb":"番組頭","kanji":"番 組 頭"}]}
+{"ent_seq":5602424,"k_ele":[{"keb":"番倉","kanji":"番 倉"}]}

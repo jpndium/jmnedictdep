@@ -55340,7 +55340,6 @@
 {"ent_seq":5055737}
 {"ent_seq":5055738}
 {"ent_seq":5055739}
-{"ent_seq":5055740}
 {"ent_seq":5055741}
 {"ent_seq":5055742}
 {"ent_seq":5055743}
@@ -90082,7 +90081,6 @@
 {"ent_seq":5090667}
 {"ent_seq":5090668}
 {"ent_seq":5090669}
-{"ent_seq":5090670}
 {"ent_seq":5090671}
 {"ent_seq":5090672}
 {"ent_seq":5090673}
@@ -90179,8 +90177,6 @@
 {"ent_seq":5090764,"k_ele":[{"keb":"リーン湖","composition":"リーン 湖","dependencies":"りーん リーン 湖","kanji":"湖"}]}
 {"ent_seq":5090765}
 {"ent_seq":5090766}
-{"ent_seq":5090767}
-{"ent_seq":5090768}
 {"ent_seq":5090769}
 {"ent_seq":5090770}
 {"ent_seq":5090771}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5100635,"k_ele":[{"keb":"阿原","dependents":"上阿原 北野阿原 清水阿原 紙漉阿原 阿原口 阿原山 阿原山牧場 阿原峠 阿原池 阿原田 阿原目","kanji":"阿 原"}]}
 {"ent_seq":5100636,"k_ele":[{"keb":"阿原","dependents":"上阿原 北野阿原 清水阿原 紙漉阿原 阿原口 阿原山 阿原山牧場 阿原峠 阿原池 阿原田 阿原目","kanji":"阿 原"}]}
 {"ent_seq":5100637,"k_ele":[{"keb":"阿原","dependents":"上阿原 北野阿原 清水阿原 紙漉阿原 阿原口 阿原山 阿原山牧場 阿原峠 阿原池 阿原田 阿原目","kanji":"阿 原"}]}
+{"ent_seq":5100638,"k_ele":[{"keb":"阿原口","composition":"阿原 口","dependencies":"阿原 口","kanji":"阿 原 口"}]}
+{"ent_seq":5100639,"k_ele":[{"keb":"阿原山","composition":"阿原 山","dependencies":"阿原 山","kanji":"阿 原 山"}]}
+{"ent_seq":5100640,"k_ele":[{"keb":"阿原山牧場","composition":"阿原 山 牧場","dependencies":"阿原 山 牧場","kanji":"阿 原 山 牧 場"}]}
+{"ent_seq":5100641,"k_ele":[{"keb":"阿原池","composition":"阿原 池","dependencies":"阿原 池","kanji":"阿 原 池"}]}
