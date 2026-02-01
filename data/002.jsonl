@@ -2764,8 +2764,8 @@
 {"ent_seq":5103423,"k_ele":[{"keb":"愛香立","composition":"愛香 立","dependencies":"愛香 立て 立","kanji":"愛 香 立"}]}
 {"ent_seq":5103424,"k_ele":[{"keb":"愛高","composition":"愛 高","dependencies":"愛 高","kanji":"愛 高"}]}
 {"ent_seq":5103425,"k_ele":[{"keb":"愛合","kanji":"愛 合"}]}
-{"ent_seq":5103426,"k_ele":[{"keb":"愛国","dependents":"愛国大橋 愛国学園大学 愛国学園短期大学 愛国橋","kanji":"愛 国"}]}
-{"ent_seq":5103427,"k_ele":[{"keb":"愛国","dependents":"愛国大橋 愛国学園大学 愛国学園短期大学 愛国橋","kanji":"愛 国"}]}
+{"ent_seq":5103426,"k_ele":[{"keb":"愛国","dependents":"大日本愛国党 愛国大橋 愛国学園大学 愛国学園短期大学 愛国橋","kanji":"愛 国"}]}
+{"ent_seq":5103427,"k_ele":[{"keb":"愛国","dependents":"大日本愛国党 愛国大橋 愛国学園大学 愛国学園短期大学 愛国橋","kanji":"愛 国"}]}
 {"ent_seq":5103428,"k_ele":[{"keb":"愛国橋","composition":"愛国 橋","dependencies":"愛国 橋","kanji":"愛 国 橋"}]}
 {"ent_seq":5103429,"k_ele":[{"keb":"愛国西","kanji":"愛 国 西"}]}
 {"ent_seq":5103430,"k_ele":[{"keb":"愛国大橋","composition":"愛国 大橋","dependencies":"愛国 大橋","kanji":"愛 国 大 橋"}]}
@@ -90888,7 +90888,7 @@
 {"ent_seq":5191809,"k_ele":[{"keb":"閑允","composition":"閑 允","dependencies":"閑 允","kanji":"閑 允"}]}
 {"ent_seq":5191810,"k_ele":[{"keb":"閑允","composition":"閑 允","dependencies":"閑 允","kanji":"閑 允"}]}
 {"ent_seq":5191811,"k_ele":[{"keb":"閑院","kanji":"閑 院"}]}
-{"ent_seq":5191812,"k_ele":[{"keb":"閑院宮","dependents":"閑院宮典仁親王 閑院宮兼仁親王 閑院宮春仁親王 閑院宮載仁親王","kanji":"閑 院 宮"}]}
+{"ent_seq":5191812,"k_ele":[{"keb":"閑院宮","dependents":"閑院宮典仁親王 閑院宮兼仁親王 閑院宮春仁親王 閑院宮美仁親王 閑院宮載仁親王","kanji":"閑 院 宮"}]}
 {"ent_seq":5191813,"k_ele":[{"keb":"閑院宮兼仁親王","composition":"閑院宮 兼仁 親王","dependencies":"閑院宮 兼仁 親王","kanji":"閑 院 宮 兼 仁 親 王"}]}
 {"ent_seq":5191814,"k_ele":[{"keb":"閑院宮載仁親王","composition":"閑院宮 載仁 親王","dependencies":"閑院宮 載仁 親王","kanji":"閑 院 宮 載 仁 親 王"}]}
 {"ent_seq":5191815,"k_ele":[{"keb":"閑院宮春仁親王","composition":"閑院宮 春仁 親王","dependencies":"閑院宮 春仁 親王","kanji":"閑 院 宮 春 仁 親 王"}]}
