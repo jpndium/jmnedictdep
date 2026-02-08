@@ -66572,8 +66572,8 @@
 {"ent_seq":5267777,"k_ele":[{"keb":"公の橋","composition":"公 の 橋","dependencies":"公 の 橋","kanji":"公 橋"}]}
 {"ent_seq":5267778,"k_ele":[{"keb":"公亜","composition":"公 亜","dependencies":"公 亜","kanji":"公 亜"}]}
 {"ent_seq":5267779,"k_ele":[{"keb":"公愛","composition":"公 愛","dependencies":"公 愛","kanji":"公 愛"}]}
-{"ent_seq":5267780,"k_ele":[{"keb":"公安","dependents":"人民公安部隊 公安調査局 国家公安委員会","kanji":"公 安"}]}
-{"ent_seq":5267781,"k_ele":[{"keb":"公安","dependents":"人民公安部隊 公安調査局 国家公安委員会","kanji":"公 安"}]}
+{"ent_seq":5267780,"k_ele":[{"keb":"公安","dependents":"人民公安部隊 公安調査局 公安部 国家公安委員会 警視庁公安部","kanji":"公 安"}]}
+{"ent_seq":5267781,"k_ele":[{"keb":"公安","dependents":"人民公安部隊 公安調査局 公安部 国家公安委員会 警視庁公安部","kanji":"公 安"}]}
 {"ent_seq":5267782,"k_ele":[{"keb":"公安調査局","composition":"公安 調査 局","dependencies":"公安 調査 局","kanji":"公 安 調 査 局"}]}
 {"ent_seq":5267783,"k_ele":[{"keb":"公伊","composition":"公 伊","dependencies":"公 伊","kanji":"公 伊"}]}
 {"ent_seq":5267784,"k_ele":[{"keb":"公位","composition":"公 位","dependencies":"公 位","kanji":"公 位"}]}

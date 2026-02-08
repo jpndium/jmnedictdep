@@ -43162,5 +43162,7 @@
 {"ent_seq":5747533,"k_ele":[{"keb":"閑院宮美仁親王","composition":"閑院宮 美仁 親王","dependencies":"閑院宮 美仁 親王","kanji":"閑 院 宮 美 仁 親 王"}]}
 {"ent_seq":5747534,"k_ele":[{"keb":"ネットゴーストＰＩＰＯＰＡ","composition":"ネット ゴースト ＰＩＰＯＰＡ","dependencies":"ネット ゴースト ＰＩＰＯＰＡ"}]}
 {"ent_seq":5747535}
-{"ent_seq":5747536}
+{"ent_seq":5747537,"k_ele":[{"keb":"警視庁公安部","composition":"警視 庁 公安部","dependencies":"警視 庁 公安 部 公安部","kanji":"警 視 庁 公 安 部"}]}
+{"ent_seq":5747538,"k_ele":[{"keb":"ホビット庄","composition":"ホビット 庄","dependencies":"ホビット 庄","kanji":"庄"}]}
+{"ent_seq":5747539}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
