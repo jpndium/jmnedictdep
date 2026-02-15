@@ -91687,7 +91687,6 @@
 {"ent_seq":5092285}
 {"ent_seq":5092286}
 {"ent_seq":5092287}
-{"ent_seq":5092288}
 {"ent_seq":5092289}
 {"ent_seq":5092290}
 {"ent_seq":5092291}
@@ -94052,7 +94051,6 @@
 {"ent_seq":5094664}
 {"ent_seq":5094665}
 {"ent_seq":5094666}
-{"ent_seq":5094667}
 {"ent_seq":5094668,"k_ele":[{"keb":"ローズベルト湖","composition":"ローズベルト 湖","dependencies":"ルーズベルト ローズベルト 湖","kanji":"湖"}]}
 {"ent_seq":5094669,"k_ele":[{"keb":"ローズベル川","composition":"ローズベル 川","dependencies":"ローズベル 川","kanji":"川"}]}
 {"ent_seq":5094670}
@@ -94062,7 +94060,6 @@
 {"ent_seq":5094674}
 {"ent_seq":5094675}
 {"ent_seq":5094676}
-{"ent_seq":5094677}
 {"ent_seq":5094678,"k_ele":[{"keb":"ローズヴェルトカンポベロ国際公園","composition":"ローズヴェルトカンポベロ 国際 公園","dependencies":"ローズヴェルトカンポベロ 国際 公園","kanji":"国 際 公 園"}]}
 {"ent_seq":5094679}
 {"ent_seq":5094680}
@@ -94433,7 +94430,6 @@
 {"ent_seq":5095047}
 {"ent_seq":5095048}
 {"ent_seq":5095049}
-{"ent_seq":5095050}
 {"ent_seq":5095051,"k_ele":[{"keb":"ロウソク岩","composition":"ロウソク 岩","dependencies":"蝋燭 ロウソク 岩","kanji":"岩"}]}
 {"ent_seq":5095052}
 {"ent_seq":5095053}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5100639,"k_ele":[{"keb":"阿原山","composition":"阿原 山","dependencies":"阿原 山","kanji":"阿 原 山"}]}
 {"ent_seq":5100640,"k_ele":[{"keb":"阿原山牧場","composition":"阿原 山 牧場","dependencies":"阿原 山 牧場","kanji":"阿 原 山 牧 場"}]}
 {"ent_seq":5100641,"k_ele":[{"keb":"阿原池","composition":"阿原 池","dependencies":"阿原 池","kanji":"阿 原 池"}]}
+{"ent_seq":5100642,"k_ele":[{"keb":"阿原町","dependents":"清水阿原町","kanji":"阿 原 町"}]}
+{"ent_seq":5100643,"k_ele":[{"keb":"阿原町","dependents":"清水阿原町","kanji":"阿 原 町"}]}
+{"ent_seq":5100644,"k_ele":[{"keb":"阿原田","composition":"阿原 田","dependencies":"阿原 田","kanji":"阿 原 田"}]}
+{"ent_seq":5100645,"k_ele":[{"keb":"阿原峠","composition":"阿原 峠","dependencies":"阿原 峠","kanji":"阿 原 峠"}]}

@@ -1,7 +1,3 @@
-{"ent_seq":5702761,"k_ele":[{"keb":"隆四郎","composition":"隆 四郎","dependencies":"隆 四郎","kanji":"隆 四 郎"}]}
-{"ent_seq":5702762,"k_ele":[{"keb":"隆士","dependents":"小塩隆士 浜田隆士","kanji":"隆 士"}]}
-{"ent_seq":5702763,"k_ele":[{"keb":"隆士","dependents":"小塩隆士 浜田隆士","kanji":"隆 士"}]}
-{"ent_seq":5702764,"k_ele":[{"keb":"隆子","dependents":"ワット隆子 島津隆子 松坂隆子 見藤隆子 隆子女王墓","kanji":"隆 子"}]}
 {"ent_seq":5702765,"k_ele":[{"keb":"隆子","dependents":"ワット隆子 島津隆子 松坂隆子 見藤隆子 隆子女王墓","kanji":"隆 子"}]}
 {"ent_seq":5702766,"k_ele":[{"keb":"隆子","dependents":"ワット隆子 島津隆子 松坂隆子 見藤隆子 隆子女王墓","kanji":"隆 子"}]}
 {"ent_seq":5702767,"k_ele":[{"keb":"隆子女王墓","composition":"隆子 女王 墓","dependencies":"隆子 女王 墓","kanji":"隆 子 女 王 墓"}]}
@@ -37258,7 +37254,6 @@
 {"ent_seq":5741445}
 {"ent_seq":5741446}
 {"ent_seq":5741447}
-{"ent_seq":5741448}
 {"ent_seq":5741449}
 {"ent_seq":5741450}
 {"ent_seq":5741451,"k_ele":[{"keb":"王立協会","composition":"王立 協会","dependencies":"王立 協会","kanji":"王 立 協 会"}]}
@@ -43165,4 +43160,11 @@
 {"ent_seq":5747537,"k_ele":[{"keb":"警視庁公安部","composition":"警視 庁 公安部","dependencies":"警視 庁 公安 部 公安部","kanji":"警 視 庁 公 安 部"}]}
 {"ent_seq":5747538,"k_ele":[{"keb":"ホビット庄","composition":"ホビット 庄","dependencies":"ホビット 庄","kanji":"庄"}]}
 {"ent_seq":5747539}
+{"ent_seq":5747540}
+{"ent_seq":5747542,"k_ele":[{"keb":"唄菜","kanji":"唄 菜"}]}
+{"ent_seq":5747543}
+{"ent_seq":5747544,"k_ele":[{"keb":"教皇選挙","composition":"教皇 選挙","dependencies":"教皇 選挙","kanji":"教 皇 選 挙"}]}
+{"ent_seq":5747545,"k_ele":[{"keb":"王塚","dependents":"山王塚 王塚古墳","kanji":"王 塚"}]}
+{"ent_seq":5747546}
+{"ent_seq":5747547}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

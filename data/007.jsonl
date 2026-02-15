@@ -1,7 +1,3 @@
-{"ent_seq":5602425,"k_ele":[{"keb":"番増","composition":"番 増","dependencies":"番 増","kanji":"番 増"}]}
-{"ent_seq":5602426,"k_ele":[{"keb":"番駄ヶ森","composition":"番 駄 ヶ 森","dependencies":"番 駄 け ケ ヶ 森","kanji":"番 駄 森"}]}
-{"ent_seq":5602427,"k_ele":[{"keb":"番台","dependents":"番台川","kanji":"番 台"}]}
-{"ent_seq":5602428,"k_ele":[{"keb":"番台川","composition":"番台 川","dependencies":"番台 川","kanji":"番 台 川"}]}
 {"ent_seq":5602429,"k_ele":[{"keb":"番沢","dependents":"八番沢 御番沢川","kanji":"番 沢"}]}
 {"ent_seq":5602430,"k_ele":[{"keb":"番沢","dependents":"八番沢 御番沢川","kanji":"番 沢"}]}
 {"ent_seq":5602431,"k_ele":[{"keb":"番谷","kanji":"番 谷"}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5702758,"k_ele":[{"keb":"隆嗣","dependents":"吉田隆嗣","kanji":"隆 嗣"}]}
 {"ent_seq":5702759,"k_ele":[{"keb":"隆嗣","dependents":"吉田隆嗣","kanji":"隆 嗣"}]}
 {"ent_seq":5702760,"k_ele":[{"keb":"隆嗣","dependents":"吉田隆嗣","kanji":"隆 嗣"}]}
+{"ent_seq":5702761,"k_ele":[{"keb":"隆四郎","composition":"隆 四郎","dependencies":"隆 四郎","kanji":"隆 四 郎"}]}
+{"ent_seq":5702762,"k_ele":[{"keb":"隆士","dependents":"小塩隆士 浜田隆士","kanji":"隆 士"}]}
+{"ent_seq":5702763,"k_ele":[{"keb":"隆士","dependents":"小塩隆士 浜田隆士","kanji":"隆 士"}]}
+{"ent_seq":5702764,"k_ele":[{"keb":"隆子","dependents":"ワット隆子 島津隆子 松坂隆子 見藤隆子 隆子女王墓","kanji":"隆 子"}]}

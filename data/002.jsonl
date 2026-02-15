@@ -1,7 +1,3 @@
-{"ent_seq":5100642,"k_ele":[{"keb":"阿原町","dependents":"清水阿原町","kanji":"阿 原 町"}]}
-{"ent_seq":5100643,"k_ele":[{"keb":"阿原町","dependents":"清水阿原町","kanji":"阿 原 町"}]}
-{"ent_seq":5100644,"k_ele":[{"keb":"阿原田","composition":"阿原 田","dependencies":"阿原 田","kanji":"阿 原 田"}]}
-{"ent_seq":5100645,"k_ele":[{"keb":"阿原峠","composition":"阿原 峠","dependencies":"阿原 峠","kanji":"阿 原 峠"}]}
 {"ent_seq":5100646,"k_ele":[{"keb":"阿原目","composition":"阿原 目","dependencies":"阿原 目","kanji":"阿 原 目"}]}
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古","dependents":"上阿古谷 下阿古谷 阿古乃 阿古師神社 阿古曽 阿古木 阿古木橋 阿古滝 阿古真理","kanji":"阿 古"}]}
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋","dependents":"阿古屋野 阿古屋野トンネル","kanji":"阿 古 屋"}]}
@@ -99998,3 +99994,7 @@
 {"ent_seq":5200955,"k_ele":[{"keb":"季歌","dependents":"努季歌","kanji":"季 歌"}]}
 {"ent_seq":5200956,"k_ele":[{"keb":"季花","kanji":"季 花"}]}
 {"ent_seq":5200957,"k_ele":[{"keb":"季華","composition":"季 華","dependencies":"季 華","kanji":"季 華"}]}
+{"ent_seq":5200958,"k_ele":[{"keb":"季介","kanji":"季 介"}]}
+{"ent_seq":5200959,"k_ele":[{"keb":"季海可","composition":"季 海 可","dependencies":"季 海 可","kanji":"季 海 可"}]}
+{"ent_seq":5200960,"k_ele":[{"keb":"季絵","dependents":"季絵子 宇季絵 都季絵","kanji":"季 絵"}]}
+{"ent_seq":5200961,"k_ele":[{"keb":"季絵子","composition":"季絵 子","dependencies":"季絵 子","kanji":"季 絵 子"}]}
