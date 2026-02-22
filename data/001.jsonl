@@ -18664,7 +18664,6 @@
 {"ent_seq":5018803,"k_ele":[{"keb":"オーストラリア首相官邸","composition":"オーストラリア 首相 官邸","dependencies":"オーストラリア 首相 官邸","kanji":"首 相 官 邸"}]}
 {"ent_seq":5018804,"k_ele":[{"keb":"オーストラリア首都特別地域","composition":"オーストラリア 首都 特別 地域","dependencies":"オーストラリア 首都 特別 地域","kanji":"首 都 特 別 地 域"}]}
 {"ent_seq":5018805,"k_ele":[{"keb":"オーストラリア連邦","composition":"オーストラリア 連邦","dependencies":"オーストラリア 連邦","kanji":"連 邦"}]}
-{"ent_seq":5018806}
 {"ent_seq":5018807}
 {"ent_seq":5018808}
 {"ent_seq":5018809}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100643,"k_ele":[{"keb":"阿原町","dependents":"清水阿原町","kanji":"阿 原 町"}]}
 {"ent_seq":5100644,"k_ele":[{"keb":"阿原田","composition":"阿原 田","dependencies":"阿原 田","kanji":"阿 原 田"}]}
 {"ent_seq":5100645,"k_ele":[{"keb":"阿原峠","composition":"阿原 峠","dependencies":"阿原 峠","kanji":"阿 原 峠"}]}
+{"ent_seq":5100646,"k_ele":[{"keb":"阿原目","composition":"阿原 目","dependencies":"阿原 目","kanji":"阿 原 目"}]}
