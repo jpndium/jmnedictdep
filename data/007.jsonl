@@ -1,4 +1,3 @@
-{"ent_seq":5602434,"k_ele":[{"keb":"番酎","composition":"番 酎","dependencies":"番 酎","kanji":"番 酎"}]}
 {"ent_seq":5602435,"k_ele":[{"keb":"番帳免","kanji":"番 帳 免"}]}
 {"ent_seq":5602436,"k_ele":[{"keb":"番町","kanji":"番 町"}]}
 {"ent_seq":5602437,"k_ele":[{"keb":"番長","kanji":"番 長"}]}
@@ -95346,7 +95345,6 @@
 {"ent_seq":5698107,"k_ele":[{"keb":"理枝","dependents":"喜理枝 満理枝 紀理枝 貴理枝","kanji":"理 枝"}]}
 {"ent_seq":5698108,"k_ele":[{"keb":"理枝子","dependents":"水原理枝子","kanji":"理 枝 子"}]}
 {"ent_seq":5698109,"k_ele":[{"keb":"理至","composition":"理 至","dependencies":"理 至り 至","kanji":"理 至"}]}
-{"ent_seq":5698110,"k_ele":[{"keb":"理事長","composition":"理事 長","dependencies":"理事 長い 長","kanji":"理 事 長"}]}
 {"ent_seq":5698111,"k_ele":[{"keb":"理次","composition":"理 次","dependencies":"理 次","kanji":"理 次"}]}
 {"ent_seq":5698112,"k_ele":[{"keb":"理次","composition":"理 次","dependencies":"理 次","kanji":"理 次"}]}
 {"ent_seq":5698113,"k_ele":[{"keb":"理次","composition":"理 次","dependencies":"理 次","kanji":"理 次"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702767,"k_ele":[{"keb":"隆子女王墓","composition":"隆子 女王 墓","dependencies":"隆子 女王 墓","kanji":"隆 子 女 王 墓"}]}
 {"ent_seq":5702768,"k_ele":[{"keb":"隆市","kanji":"隆 市"}]}
 {"ent_seq":5702769,"k_ele":[{"keb":"隆市","kanji":"隆 市"}]}
+{"ent_seq":5702770,"k_ele":[{"keb":"隆志","dependents":"三ツ林隆志 三浦隆志 井之上隆志 内之倉隆志 北小路隆志 喜多隆志 大森隆志 横山隆志 牧野隆志 益岡隆志 菊池隆志 越本隆志 高良隆志","kanji":"隆 志"}]}
+{"ent_seq":5702771,"k_ele":[{"keb":"隆志","dependents":"三ツ林隆志 三浦隆志 井之上隆志 内之倉隆志 北小路隆志 喜多隆志 大森隆志 横山隆志 牧野隆志 益岡隆志 菊池隆志 越本隆志 高良隆志","kanji":"隆 志"}]}
