@@ -1,5 +1,3 @@
-{"ent_seq":5702772,"k_ele":[{"keb":"隆志郎","kanji":"隆 志 郎"}]}
-{"ent_seq":5702773,"k_ele":[{"keb":"隆志郎","kanji":"隆 志 郎"}]}
 {"ent_seq":5702774,"k_ele":[{"keb":"隆旨","kanji":"隆 旨"}]}
 {"ent_seq":5702775,"k_ele":[{"keb":"隆枝","kanji":"隆 枝"}]}
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏","composition":"隆 氏","dependencies":"隆 氏","kanji":"隆 氏"}]}
@@ -1034,11 +1032,11 @@
 {"ent_seq":5703806,"k_ele":[{"keb":"竜埜","composition":"竜 埜","dependencies":"竜 埜","kanji":"竜 埜"}]}
 {"ent_seq":5703807,"k_ele":[{"keb":"竜埜","composition":"竜 埜","dependencies":"竜 埜","kanji":"竜 埜"}]}
 {"ent_seq":5703808,"k_ele":[{"keb":"竜波","kanji":"竜 波"}]}
-{"ent_seq":5703809,"k_ele":[{"keb":"竜馬","dependents":"竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
-{"ent_seq":5703810,"k_ele":[{"keb":"竜馬","dependents":"竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
-{"ent_seq":5703811,"k_ele":[{"keb":"竜馬","dependents":"竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
-{"ent_seq":5703812,"k_ele":[{"keb":"竜馬","dependents":"竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
-{"ent_seq":5703813,"k_ele":[{"keb":"竜馬","dependents":"竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
+{"ent_seq":5703809,"k_ele":[{"keb":"竜馬","dependents":"坂本竜馬 竜馬がゆく 竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
+{"ent_seq":5703810,"k_ele":[{"keb":"竜馬","dependents":"坂本竜馬 竜馬がゆく 竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
+{"ent_seq":5703811,"k_ele":[{"keb":"竜馬","dependents":"坂本竜馬 竜馬がゆく 竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
+{"ent_seq":5703812,"k_ele":[{"keb":"竜馬","dependents":"坂本竜馬 竜馬がゆく 竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
+{"ent_seq":5703813,"k_ele":[{"keb":"竜馬","dependents":"坂本竜馬 竜馬がゆく 竜馬ケ岳 竜馬山 竜馬石 都成竜馬","kanji":"竜 馬"}]}
 {"ent_seq":5703814,"k_ele":[{"keb":"竜馬ケ岳","composition":"竜馬 ケ 岳","dependencies":"竜馬 け ケ 岳","kanji":"竜 馬 岳"}]}
 {"ent_seq":5703815,"k_ele":[{"keb":"竜馬ヶ岳","composition":"竜 馬ヶ岳","dependencies":"竜 馬ヶ岳","kanji":"竜 馬 岳"}]}
 {"ent_seq":5703816,"k_ele":[{"keb":"竜馬山","composition":"竜馬 山","dependencies":"竜馬 山","kanji":"竜 馬 山"}]}
@@ -1281,10 +1279,10 @@
 {"ent_seq":5704055,"k_ele":[{"keb":"龍以","composition":"龍 以","dependencies":"竜 龍 以つ 持つ 以","kanji":"龍 以"}]}
 {"ent_seq":5704056,"k_ele":[{"keb":"龍井","dependents":"龍井葉二","kanji":"龍 井"}]}
 {"ent_seq":5704057,"k_ele":[{"keb":"龍井葉二","composition":"龍井 葉 二","dependencies":"龍井 葉 二","kanji":"龍 井 葉 二"}]}
-{"ent_seq":5704058,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
-{"ent_seq":5704059,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
-{"ent_seq":5704060,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
-{"ent_seq":5704061,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
+{"ent_seq":5704058,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成歩堂龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
+{"ent_seq":5704059,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成歩堂龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
+{"ent_seq":5704060,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成歩堂龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
+{"ent_seq":5704061,"k_ele":[{"keb":"龍一","dependents":"古里龍一 坂本龍一 寺島龍一 小田龍一 平野龍一 成歩堂龍一 成田龍一 手嶋龍一 清成龍一 渡部龍一 瀬口龍一 石井龍一 秋場龍一 緒方龍一 里村龍一 長尾龍一 龍一京","kanji":"龍 一"}]}
 {"ent_seq":5704062,"k_ele":[{"keb":"龍一京","composition":"龍一 京","dependencies":"龍一 京","kanji":"龍 一 京"}]}
 {"ent_seq":5704063,"k_ele":[{"keb":"龍一朗","dependents":"海道龍一朗","kanji":"龍 一 朗"}]}
 {"ent_seq":5704064,"k_ele":[{"keb":"龍一郎","dependents":"岬龍一郎 飯田龍一郎","kanji":"龍 一 郎"}]}
@@ -43194,12 +43192,14 @@
 {"ent_seq":5747580}
 {"ent_seq":5747581}
 {"ent_seq":5747582,"k_ele":[{"keb":"幽平","composition":"幽 平","dependencies":"幽 平","kanji":"幽 平"}]}
+{"ent_seq":5747583}
 {"ent_seq":5747584}
 {"ent_seq":5747585}
 {"ent_seq":5747586}
 {"ent_seq":5747587,"k_ele":[{"keb":"予告殺人","composition":"予告 殺人","dependencies":"予告 殺人","kanji":"予 告 殺 人"}]}
 {"ent_seq":5747588,"k_ele":[{"keb":"舞流","dependents":"美瑠舞流","kanji":"舞 流"}]}
 {"ent_seq":5747589,"k_ele":[{"keb":"九瑠璃","composition":"九 瑠璃","dependencies":"九 瑠璃","kanji":"九 瑠 璃"}]}
+{"ent_seq":5747590}
 {"ent_seq":5747591}
 {"ent_seq":5747592}
 {"ent_seq":5747594}
@@ -43220,4 +43220,21 @@
 {"ent_seq":5747609,"k_ele":[{"keb":"酒鬼薔薇","dependents":"酒鬼薔薇聖斗","kanji":"酒 鬼 薔 薇"}]}
 {"ent_seq":5747610,"k_ele":[{"keb":"絶歌","composition":"絶 歌","dependencies":"絶 歌","kanji":"絶 歌"}]}
 {"ent_seq":5747611}
+{"ent_seq":5747612}
+{"ent_seq":5747613,"k_ele":[{"keb":"不二咲","composition":"不二 咲","dependencies":"不二 咲き 咲","kanji":"不 二 咲"}]}
+{"ent_seq":5747614,"k_ele":[{"keb":"げっちゅ屋","composition":"げっ ちゅ 屋","dependencies":"げえ げっ ちゅ 屋","kanji":"屋"}]}
+{"ent_seq":5747615,"k_ele":[{"keb":"成歩堂龍一","composition":"成 歩 堂 龍一","dependencies":"成 歩 堂 龍一","kanji":"成 歩 堂 龍 一"}]}
+{"ent_seq":5747616,"k_ele":[{"keb":"成歩堂","composition":"成 歩 堂","dependencies":"成 歩 堂","kanji":"成 歩 堂"}]}
+{"ent_seq":5747617,"k_ele":[{"keb":"アメリカ同時多発テロ","composition":"アメリカ 同時 多発 テロ","dependencies":"アメリカ 同時 多発 テロ","kanji":"同 時 多 発"}]}
+{"ent_seq":5747618,"k_ele":[{"keb":"アメリカ同時多発テロ事件","composition":"アメリカ 同時 多発 テロ 事件","dependencies":"アメリカ 同時 多発 テロ 事件","kanji":"同 時 多 発 事 件"}]}
+{"ent_seq":5747619,"k_ele":[{"keb":"坂崎紫瀾","composition":"坂崎 紫瀾","dependencies":"坂崎 紫瀾","kanji":"坂 崎 紫 瀾"}]}
+{"ent_seq":5747620,"k_ele":[{"keb":"汗血千里駒","composition":"汗血 千里 駒","dependencies":"汗血 千里 駒","kanji":"汗 血 千 里 駒"},{"keb":"汗血千里の駒","composition":"汗血 千里 の 駒","dependencies":"汗血 千里 の 駒","kanji":"汗 血 千 里 駒"}]}
+{"ent_seq":5747621,"k_ele":[{"keb":"竜馬がゆく","composition":"竜馬 が ゆく","dependencies":"竜馬 が 行く ゆく","kanji":"竜 馬"}]}
+{"ent_seq":5747622,"k_ele":[{"keb":"精神現象学","composition":"精神 現象学","dependencies":"精神 現象 学 現象学","kanji":"精 神 現 象 学"}]}
+{"ent_seq":5747624,"k_ele":[{"keb":"プラダを着た悪魔","composition":"プラダ を 着 た 悪魔","dependencies":"プラダ を 着 た 悪魔","kanji":"着 悪 魔"}]}
+{"ent_seq":5747625}
+{"ent_seq":5747626}
+{"ent_seq":5747627}
+{"ent_seq":5747628,"k_ele":[{"keb":"日本法医学会","composition":"日本 法医学 会","dependencies":"日本 法 医学 法医学 会","kanji":"日 本 法 医 学 会"}]}
+{"ent_seq":5747629,"k_ele":[{"keb":"予言集","composition":"予言 集","dependencies":"予言 集","kanji":"予 言 集"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
