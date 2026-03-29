@@ -43238,4 +43238,11 @@
 {"ent_seq":5747628,"k_ele":[{"keb":"日本法医学会","composition":"日本 法医学 会","dependencies":"日本 法 医学 法医学 会","kanji":"日 本 法 医 学 会"}]}
 {"ent_seq":5747629,"k_ele":[{"keb":"予言集","composition":"予言 集","dependencies":"予言 集","kanji":"予 言 集"}]}
 {"ent_seq":5747630}
+{"ent_seq":5747631,"k_ele":[{"keb":"旺佑","kanji":"旺 佑"}]}
+{"ent_seq":5747632,"k_ele":[{"keb":"出目男","composition":"出目 男","dependencies":"出目 男","kanji":"出 目 男"}]}
+{"ent_seq":5747633}
+{"ent_seq":5747634}
+{"ent_seq":5747635}
+{"ent_seq":5747636}
+{"ent_seq":5747637,"k_ele":[{"keb":"一九八四年","composition":"一九八四 年","dependencies":"一九八四 年","kanji":"一 九 八 四 年"},{"keb":"１９８４年","composition":"１９８４ 年","dependencies":"１９８４ 年","kanji":"年"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

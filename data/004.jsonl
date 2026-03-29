@@ -59937,8 +59937,8 @@
 {"ent_seq":5361437,"k_ele":[{"keb":"出木谷","kanji":"出 木 谷"}]}
 {"ent_seq":5361438,"k_ele":[{"keb":"出木谷","kanji":"出 木 谷"}]}
 {"ent_seq":5361439,"k_ele":[{"keb":"出木野","kanji":"出 木 野"}]}
-{"ent_seq":5361440,"k_ele":[{"keb":"出目","dependents":"出目昌伸 出目駅 宮内出目 宮内出目東 宮内出目西","kanji":"出 目"}]}
-{"ent_seq":5361441,"k_ele":[{"keb":"出目","dependents":"出目昌伸 出目駅 宮内出目 宮内出目東 宮内出目西","kanji":"出 目"}]}
+{"ent_seq":5361440,"k_ele":[{"keb":"出目","dependents":"出目昌伸 出目男 出目駅 宮内出目 宮内出目東 宮内出目西","kanji":"出 目"}]}
+{"ent_seq":5361441,"k_ele":[{"keb":"出目","dependents":"出目昌伸 出目男 出目駅 宮内出目 宮内出目東 宮内出目西","kanji":"出 目"}]}
 {"ent_seq":5361442,"k_ele":[{"keb":"出目駅","composition":"出目 駅","dependencies":"出目 駅","kanji":"出 目 駅"}]}
 {"ent_seq":5361443,"k_ele":[{"keb":"出目昌伸","composition":"出目 昌伸","dependencies":"出目 昌伸","kanji":"出 目 昌 伸"}]}
 {"ent_seq":5361444,"k_ele":[{"keb":"出門","dependents":"出門英","kanji":"出 門"}]}
