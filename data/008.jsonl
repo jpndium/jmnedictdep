@@ -1,4 +1,3 @@
-{"ent_seq":5702774,"k_ele":[{"keb":"隆旨","kanji":"隆 旨"}]}
 {"ent_seq":5702775,"k_ele":[{"keb":"隆枝","kanji":"隆 枝"}]}
 {"ent_seq":5702776,"k_ele":[{"keb":"隆氏","composition":"隆 氏","dependencies":"隆 氏","kanji":"隆 氏"}]}
 {"ent_seq":5702777,"k_ele":[{"keb":"隆至","kanji":"隆 至"}]}
@@ -21710,7 +21709,7 @@
 {"ent_seq":5724534,"k_ele":[{"keb":"懋昭","kanji":"懋 昭"}]}
 {"ent_seq":5724535,"k_ele":[{"keb":"懍","kanji":"懍"}]}
 {"ent_seq":5724536,"k_ele":[{"keb":"懶斎","composition":"懶 斎","dependencies":"物臭 懶 斎","kanji":"懶 斎"}]}
-{"ent_seq":5724537,"k_ele":[{"keb":"懿","dependents":"懿夫 懿美子 懿造 正懿 貞懿","kanji":"懿"}]}
+{"ent_seq":5724537,"k_ele":[{"keb":"懿","dependents":"司馬懿 懿夫 懿美子 懿造 正懿 貞懿","kanji":"懿"}]}
 {"ent_seq":5724538,"k_ele":[{"keb":"懿王","kanji":"懿 王"}]}
 {"ent_seq":5724539,"k_ele":[{"keb":"懿宗","kanji":"懿 宗"}]}
 {"ent_seq":5724540,"k_ele":[{"keb":"懿造","composition":"懿 造","dependencies":"懿 造","kanji":"懿 造"}]}
@@ -41082,7 +41081,7 @@
 {"ent_seq":5745412,"k_ele":[{"keb":"峰弘","composition":"峰 弘","dependencies":"峰 弘","kanji":"峰 弘"}]}
 {"ent_seq":5745413,"k_ele":[{"keb":"五十幡","kanji":"五 十 幡"}]}
 {"ent_seq":5745414,"k_ele":[{"keb":"匠真","kanji":"匠 真"}]}
-{"ent_seq":5745415,"k_ele":[{"keb":"大将","dependents":"三ばか大将 右大将 右大将道綱母 大将ヶ根 大将ヶ陣山 大将内 大将地 大将山 大将陣 大将陣山 安藤大将 狭衣大将","kanji":"大 将"}]}
+{"ent_seq":5745415,"k_ele":[{"keb":"大将","dependents":"三ばか大将 五虎大将 右大将 右大将道綱母 大将ヶ根 大将ヶ陣山 大将内 大将地 大将山 大将陣 大将陣山 安藤大将 狭衣大将","kanji":"大 将"}]}
 {"ent_seq":5745416,"k_ele":[{"keb":"大智郎","composition":"大 智郎","dependencies":"大 智郎","kanji":"大 智 郎"}]}
 {"ent_seq":5745417,"k_ele":[{"keb":"則旦","composition":"則 旦","dependencies":"則 旦","kanji":"則 旦"}]}
 {"ent_seq":5745418,"k_ele":[{"keb":"裕季也","composition":"裕季 也","dependencies":"裕季 なり 也","kanji":"裕 季 也"}]}
@@ -43245,4 +43244,23 @@
 {"ent_seq":5747635}
 {"ent_seq":5747636}
 {"ent_seq":5747637,"k_ele":[{"keb":"一九八四年","composition":"一九八四 年","dependencies":"一九八四 年","kanji":"一 九 八 四 年"},{"keb":"１９８４年","composition":"１９８４ 年","dependencies":"１９８４ 年","kanji":"年"}]}
+{"ent_seq":5747638}
+{"ent_seq":5747639}
+{"ent_seq":5747640,"k_ele":[{"keb":"奈良井宿","composition":"奈良井 宿","dependencies":"奈良井 宿","kanji":"奈 良 井 宿"}]}
+{"ent_seq":5747641,"k_ele":[{"keb":"司馬懿","composition":"司馬 懿","dependencies":"司馬 懿","kanji":"司 馬 懿"}]}
+{"ent_seq":5747642,"k_ele":[{"keb":"街亭","composition":"街 亭","dependencies":"街 亭","kanji":"街 亭"}]}
+{"ent_seq":5747644,"k_ele":[{"keb":"倭人伝","composition":"倭人 伝","dependencies":"和人 倭人 伝","dependents":"魏志倭人伝","kanji":"倭 人 伝"}]}
+{"ent_seq":5747645,"k_ele":[{"keb":"石兵八陣","composition":"石 兵 八陣","dependencies":"石 兵 八陣","kanji":"石 兵 八 陣"}]}
+{"ent_seq":5747646,"k_ele":[{"keb":"兵法三十六計","composition":"兵法 三十六 計","dependencies":"兵法 三十六 計","kanji":"兵 法 三 十 六 計"}]}
+{"ent_seq":5747647,"k_ele":[{"keb":"赤兎馬","composition":"赤兎 馬","dependencies":"赤兎 馬","kanji":"赤 兎 馬"}]}
+{"ent_seq":5747648,"k_ele":[{"keb":"諸葛孔明","composition":"諸葛 孔明","dependencies":"諸葛 孔明","kanji":"諸 葛 孔 明"}]}
+{"ent_seq":5747649,"k_ele":[{"keb":"五虎大将軍","composition":"五 虎 大将軍","dependencies":"五 虎 大将軍","kanji":"五 虎 大 将 軍"}]}
+{"ent_seq":5747650,"k_ele":[{"keb":"五虎大将","composition":"五 虎 大将","dependencies":"五 虎 大将","kanji":"五 虎 大 将"}]}
+{"ent_seq":5747651,"k_ele":[{"keb":"五虎将軍","composition":"五 虎将 軍","dependencies":"五 虎将 軍","kanji":"五 虎 将 軍"}]}
+{"ent_seq":5747652,"k_ele":[{"keb":"五虎将","composition":"五 虎将","dependencies":"五 虎将","kanji":"五 虎 将"}]}
+{"ent_seq":5747653,"k_ele":[{"keb":"戦艦ポチョムキン","composition":"戦艦 ポチョムキン","dependencies":"戦艦 ポチョムキン","kanji":"戦 艦"}]}
+{"ent_seq":5747654,"k_ele":[{"keb":"張遼","kanji":"張 遼"}]}
+{"ent_seq":5747655}
+{"ent_seq":5747656,"k_ele":[{"keb":"呂蒙","kanji":"呂 蒙"}]}
+{"ent_seq":5747657,"k_ele":[{"keb":"魯粛","kanji":"魯 粛"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
