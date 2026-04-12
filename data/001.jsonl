@@ -1589,7 +1589,6 @@
 {"ent_seq":5001593,"k_ele":[{"keb":"お台場海浜公園駅","composition":"お台場 海浜 公園 駅","dependencies":"お台場 海浜 公園 駅","kanji":"台 場 海 浜 公 園 駅"}]}
 {"ent_seq":5001594,"k_ele":[{"keb":"お辰","kanji":"辰"}]}
 {"ent_seq":5001595,"k_ele":[{"keb":"お池","composition":"お 池","dependencies":"御 お 池","kanji":"池"}]}
-{"ent_seq":5001596,"k_ele":[{"keb":"お茶の水","dependents":"お茶の水女子大学","kanji":"茶 水"}]}
 {"ent_seq":5001597,"k_ele":[{"keb":"お茶の水女子大学","composition":"お茶の水 女子 大学","dependencies":"お茶の水 女子 大学","kanji":"茶 水 女 子 大 学"}]}
 {"ent_seq":5001598,"k_ele":[{"keb":"お茶屋","composition":"お 茶屋","dependencies":"御 お 茶屋","kanji":"茶 屋"}]}
 {"ent_seq":5001599,"k_ele":[{"keb":"お茶屋町","kanji":"茶 屋 町"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100645,"k_ele":[{"keb":"阿原峠","composition":"阿原 峠","dependencies":"阿原 峠","kanji":"阿 原 峠"}]}
 {"ent_seq":5100646,"k_ele":[{"keb":"阿原目","composition":"阿原 目","dependencies":"阿原 目","kanji":"阿 原 目"}]}
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古","dependents":"上阿古谷 下阿古谷 阿古乃 阿古師神社 阿古曽 阿古木 阿古木橋 阿古滝 阿古真理","kanji":"阿 古"}]}
+{"ent_seq":5100648,"k_ele":[{"keb":"阿古屋","dependents":"阿古屋野 阿古屋野トンネル","kanji":"阿 古 屋"}]}

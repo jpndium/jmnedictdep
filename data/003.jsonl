@@ -1,4 +1,3 @@
-{"ent_seq":5200964,"k_ele":[{"keb":"季喜","composition":"季 喜","dependencies":"季 喜","kanji":"季 喜"}]}
 {"ent_seq":5200965,"k_ele":[{"keb":"季希","kanji":"季 希"}]}
 {"ent_seq":5200966,"k_ele":[{"keb":"季祈","composition":"季 祈","dependencies":"季 祈","kanji":"季 祈"}]}
 {"ent_seq":5200967,"k_ele":[{"keb":"季貴","composition":"季 貴","dependencies":"季 貴","kanji":"季 貴"}]}
@@ -63636,7 +63635,7 @@
 {"ent_seq":5264842,"k_ele":[{"keb":"御茶々岳","composition":"御 茶々 岳","dependencies":"御 茶々 岳","kanji":"御 茶 岳"}]}
 {"ent_seq":5264843,"k_ele":[{"keb":"御茶の水町","kanji":"御 茶 水 町"}]}
 {"ent_seq":5264844,"k_ele":[{"keb":"御茶の水排水","composition":"御茶の水 排水","dependencies":"御茶の水 排水","kanji":"御 茶 水 排 水"}]}
-{"ent_seq":5264845,"k_ele":[{"keb":"御茶ノ水","dependents":"御茶ノ水駅 新御茶ノ水駅","kanji":"御 茶 水"}]}
+{"ent_seq":5264845,"k_ele":[{"keb":"御茶ノ水","dependents":"御茶ノ水駅 新御茶ノ水駅","kanji":"御 茶 水"},{"keb":"お茶の水","dependents":"お茶の水女子大学","kanji":"茶 水"},{"keb":"御茶の水","dependents":"御茶の水排水","kanji":"御 茶 水"}]}
 {"ent_seq":5264846,"k_ele":[{"keb":"御茶ノ水駅","composition":"御茶ノ水 駅","dependencies":"御茶ノ水 駅","dependents":"新御茶ノ水駅","kanji":"御 茶 水 駅"}]}
 {"ent_seq":5264847,"k_ele":[{"keb":"御茶園","composition":"御 茶園","dependencies":"御 茶園","kanji":"御 茶 園"}]}
 {"ent_seq":5264848,"k_ele":[{"keb":"御茶園山","composition":"御 茶園 山","dependencies":"御 茶園 山","kanji":"御 茶 園 山"}]}
@@ -80427,7 +80426,7 @@
 {"ent_seq":5281678,"k_ele":[{"keb":"甲子","dependents":"下甲子 中甲子 増田甲子七 安甲子 小川甲子 新甲子 甲子七 甲子三 甲子三造 甲子久 甲子之 甲子二 甲子又沢 甲子司 甲子堂 甲子士 甲子子 甲子山 甲子峠 甲子川 甲子彦 甲子恵 甲子次 甲子次郎 甲子治 甲子温泉 甲子生 甲子蔵 甲子衛 甲子貯水池 甲子造 甲子駅 甲子麿 那須甲子少年自然の家 那須甲子有料道路","kanji":"甲 子"}]}
 {"ent_seq":5281679,"k_ele":[{"keb":"甲子衛","composition":"甲子 衛","dependencies":"甲子 衛","kanji":"甲 子 衛"}]}
 {"ent_seq":5281680,"k_ele":[{"keb":"甲子駅","composition":"甲子 駅","dependencies":"甲子 駅","kanji":"甲 子 駅"}]}
-{"ent_seq":5281681,"k_ele":[{"keb":"甲子園","dependents":"上甲子園 甲子園ボウル 甲子園一番町 甲子園七番 甲子園三保 甲子園三保町 甲子園三番 甲子園九番 甲子園二番 甲子園五番 甲子園八番 甲子園六番 甲子園六石 甲子園六石町 甲子園口 甲子園口北 甲子園口北町 甲子園口駅 甲子園四番 甲子園大学 甲子園春風 甲子園春風町 甲子園洲鳥 甲子園洲鳥町 甲子園浜田町 甲子園浦風 甲子園浦風町 甲子園球場 甲子園短大 甲子園砂田 甲子園砂田町 甲子園網引 甲子園網引町 甲子園駅 甲子園高潮 甲子園高潮町 阪神甲子園球場","kanji":"甲 子 園"}]}
+{"ent_seq":5281681,"k_ele":[{"keb":"甲子園","dependents":"まんが甲子園 上甲子園 甲子園ボウル 甲子園一番町 甲子園七番 甲子園三保 甲子園三保町 甲子園三番 甲子園九番 甲子園二番 甲子園五番 甲子園八番 甲子園六番 甲子園六石 甲子園六石町 甲子園口 甲子園口北 甲子園口北町 甲子園口駅 甲子園四番 甲子園大学 甲子園春風 甲子園春風町 甲子園洲鳥 甲子園洲鳥町 甲子園浜田町 甲子園浦風 甲子園浦風町 甲子園球場 甲子園短大 甲子園砂田 甲子園砂田町 甲子園網引 甲子園網引町 甲子園駅 甲子園高潮 甲子園高潮町 阪神甲子園球場","kanji":"甲 子 園"}]}
 {"ent_seq":5281682,"k_ele":[{"keb":"甲子園ボウル","composition":"甲子園 ボウル","dependencies":"甲子園 ボウル","kanji":"甲 子 園"}]}
 {"ent_seq":5281683,"k_ele":[{"keb":"甲子園一番町","composition":"甲子園 一番町","dependencies":"甲子園 一番町","kanji":"甲 子 園 一 番 町"}]}
 {"ent_seq":5281684,"k_ele":[{"keb":"甲子園浦風","composition":"甲子園 浦風","dependencies":"甲子園 浦風","kanji":"甲 子 園 浦 風"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301319,"k_ele":[{"keb":"佐藤順子","composition":"佐藤 順子","dependencies":"佐藤 順子","kanji":"佐 藤 順 子"}]}
 {"ent_seq":5301320,"k_ele":[{"keb":"佐藤初女","composition":"佐藤 初女","dependencies":"佐藤 初女","kanji":"佐 藤 初 女"}]}
 {"ent_seq":5301321,"k_ele":[{"keb":"佐藤初雄","composition":"佐藤 初雄","dependencies":"佐藤 初雄","kanji":"佐 藤 初 雄"}]}
+{"ent_seq":5301322,"k_ele":[{"keb":"佐藤渚","composition":"佐藤 渚","dependencies":"佐藤 渚","kanji":"佐 藤 渚"}]}
