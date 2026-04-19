@@ -18173,7 +18173,6 @@
 {"ent_seq":5720991,"k_ele":[{"keb":"勵子","kanji":"勵 子"}]}
 {"ent_seq":5720992,"k_ele":[{"keb":"勸山","kanji":"勸 山"}]}
 {"ent_seq":5720993,"k_ele":[{"keb":"勹慶","kanji":"勹 慶"}]}
-{"ent_seq":5720994,"k_ele":[{"keb":"匈牙利","composition":"匈牙 利","dependencies":"匈牙 利","kanji":"匈 牙 利"}]}
 {"ent_seq":5720995,"k_ele":[{"keb":"甸","dependents":"福甸","kanji":"甸"}]}
 {"ent_seq":5720996,"k_ele":[{"keb":"匏瓜","kanji":"匏 瓜"}]}
 {"ent_seq":5720997,"k_ele":[{"keb":"區丁平","composition":"區 丁 平","dependencies":"区 區 丁 平","kanji":"區 丁 平"}]}
@@ -43264,6 +43263,7 @@
 {"ent_seq":5747656,"k_ele":[{"keb":"呂蒙","kanji":"呂 蒙"}]}
 {"ent_seq":5747657,"k_ele":[{"keb":"魯粛","kanji":"魯 粛"}]}
 {"ent_seq":5747658,"k_ele":[{"keb":"富士の樹海","composition":"富士 の 樹海","dependencies":"富士 の 樹海","kanji":"富 士 樹 海"}]}
+{"ent_seq":5747659,"k_ele":[{"keb":"サレント半島","composition":"サレント 半島","dependencies":"サレント 半島","kanji":"半 島"}]}
 {"ent_seq":5747660,"k_ele":[{"keb":"まんが甲子園","composition":"まんが 甲子園","dependencies":"漫画 まんが 甲子園","kanji":"甲 子 園"}]}
 {"ent_seq":5747661,"k_ele":[{"keb":"キュリー夫人","composition":"キュリー 夫人","dependencies":"キュリー 夫人","kanji":"夫 人"}]}
 {"ent_seq":5747662}
@@ -43292,4 +43292,21 @@
 {"ent_seq":5747685}
 {"ent_seq":5747686}
 {"ent_seq":5747687}
+{"ent_seq":5747688,"k_ele":[{"keb":"ＩＣＯＴ"}]}
+{"ent_seq":5747689}
+{"ent_seq":5747690,"k_ele":[{"keb":"パブリックドメインの日","composition":"パブリック ドメイン の 日","dependencies":"パブリック ドメイン の 日","kanji":"日"}]}
+{"ent_seq":5747691,"k_ele":[{"keb":"アルテミスＩＩ","composition":"アルテミス ＩＩ","dependencies":"アルテミス ＩＩ"},{"keb":"アルテミス２","composition":"アルテミス ２","dependencies":"アルテミス 2 ２"}]}
+{"ent_seq":5747692}
+{"ent_seq":5747693}
+{"ent_seq":5747694,"k_ele":[{"keb":"かなまら祭り","composition":"かな まら 祭り","dependencies":"か だ な かな マラ まら 祭 祭り","kanji":"祭"}]}
+{"ent_seq":5747695}
+{"ent_seq":5747696}
+{"ent_seq":5747697}
+{"ent_seq":5747698,"k_ele":[{"keb":"美団","composition":"美 団","dependencies":"美 団","kanji":"美 団"}]}
+{"ent_seq":5747699,"k_ele":[{"keb":"赤い悪魔","composition":"赤い 悪魔","dependencies":"赤い 悪魔","kanji":"赤 悪 魔"}]}
+{"ent_seq":5747700}
+{"ent_seq":5747701,"k_ele":[{"keb":"Ｋパン","composition":"Ｋ パン","dependencies":"k Ｋ パン"}]}
+{"ent_seq":5747702}
+{"ent_seq":5747703}
+{"ent_seq":5747704}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
