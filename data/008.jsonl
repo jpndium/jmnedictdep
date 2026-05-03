@@ -21797,7 +21797,7 @@
 {"ent_seq":5724624,"k_ele":[{"keb":"拂田","kanji":"拂 田"}]}
 {"ent_seq":5724625,"k_ele":[{"keb":"拇指嶽","composition":"拇指 嶽","dependencies":"拇指 嶽","kanji":"拇 指 嶽"}]}
 {"ent_seq":5724626,"k_ele":[{"keb":"拇速","kanji":"拇 速"}]}
-{"ent_seq":5724627,"k_ele":[{"keb":"拉","composition":"拉る 拉げる","dependencies":"拉る 拉げる","dependents":"克拉瑪依 塔克拉瑪干 塔克拉瑪干砂漠 布衣拉尓別川 拉生 拉葡日対訳辞書 海拉爾","kanji":"拉"}]}
+{"ent_seq":5724627,"k_ele":[{"keb":"拉","composition":"拉る 拉げる","dependencies":"拉る 拉げる","dependents":"克拉瑪依 塔克拉瑪干 塔克拉瑪干砂漠 布衣拉尓別川 布達拉宮 拉生 拉葡日対訳辞書 海拉爾","kanji":"拉"}]}
 {"ent_seq":5724628,"k_ele":[{"keb":"拉生","composition":"拉 生","dependencies":"拉る 拉げる 拉 生","kanji":"拉 生"}]}
 {"ent_seq":5724629,"k_ele":[{"keb":"挌","dependents":"北城挌太郎","kanji":"挌"}]}
 {"ent_seq":5724630,"k_ele":[{"keb":"拮石","kanji":"拮 石"}]}
@@ -43321,4 +43321,16 @@
 {"ent_seq":5747716,"k_ele":[{"keb":"塩津","dependents":"三河塩津駅 下塩津神社 塩津トンネル 塩津山 塩津峠 塩津駅 近江塩津駅","kanji":"塩 津"},{"keb":"鹽津","kanji":"鹽 津"}]}
 {"ent_seq":5747717,"k_ele":[{"keb":"延津","composition":"延 津","dependencies":"延べ 延 津","kanji":"延 津"}]}
 {"ent_seq":5747718}
+{"ent_seq":5747719,"k_ele":[{"keb":"解体新書","composition":"解体 新書","dependencies":"解体 新書","kanji":"解 体 新 書"},{"keb":"解體新書","composition":"解 體 新書","dependencies":"解 体 體 新書","kanji":"解 體 新 書"}]}
+{"ent_seq":5747720,"k_ele":[{"keb":"三文オペラ","composition":"三 文 オペラ","dependencies":"三 文 オペラ","kanji":"三 文"}]}
+{"ent_seq":5747721}
+{"ent_seq":5747722}
+{"ent_seq":5747723}
+{"ent_seq":5747724}
+{"ent_seq":5747725,"k_ele":[{"keb":"ニコ生","composition":"ニコ 生","dependencies":"にこ ニコ 生","kanji":"生"}]}
+{"ent_seq":5747726,"k_ele":[{"keb":"紅茶花伝","composition":"紅茶 花伝","dependencies":"紅茶 花伝","kanji":"紅 茶 花 伝"}]}
+{"ent_seq":5747727,"k_ele":[{"keb":"ポタラ宮","composition":"ポタラ 宮","dependencies":"ポタラ 宮","kanji":"宮"},{"keb":"布達拉宮","composition":"布達 拉 宮","dependencies":"布達 拉る 拉げる 拉 宮","kanji":"布 達 拉 宮"}]}
+{"ent_seq":5747728,"k_ele":[{"keb":"里見八犬伝","composition":"里見 八 犬 伝","dependencies":"里見 八 犬 伝","kanji":"里 見 八 犬 伝"}]}
+{"ent_seq":5747729,"k_ele":[{"keb":"特茶","composition":"特 茶","dependencies":"特 茶","kanji":"特 茶"}]}
+{"ent_seq":5747730,"k_ele":[{"keb":"羅生門河岸","composition":"羅生門 河岸","dependencies":"羅生門 河岸","kanji":"羅 生 門 河 岸"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
