@@ -1,4 +1,3 @@
-{"ent_seq":5401585,"k_ele":[{"keb":"条吉","composition":"条 吉","dependencies":"条 吉","kanji":"条 吉"}]}
 {"ent_seq":5401586,"k_ele":[{"keb":"条久","composition":"条 久","dependencies":"条 久","kanji":"条 久"}]}
 {"ent_seq":5401587,"k_ele":[{"keb":"条元","kanji":"条 元"}]}
 {"ent_seq":5401588,"k_ele":[{"keb":"条原","composition":"条 原","dependencies":"条 原","kanji":"条 原"}]}
@@ -16767,9 +16766,9 @@
 {"ent_seq":5418415,"k_ele":[{"keb":"神湊東","composition":"神湊 東","dependencies":"神湊 東","kanji":"神 湊 東"}]}
 {"ent_seq":5418416,"k_ele":[{"keb":"神無","dependents":"小山神無森 神無栄","kanji":"神 無"}]}
 {"ent_seq":5418417,"k_ele":[{"keb":"神無栄","composition":"神無 栄","dependencies":"神無 栄え 栄","kanji":"神 無 栄"}]}
-{"ent_seq":5418418,"k_ele":[{"keb":"神無月","kanji":"神 無 月"}]}
-{"ent_seq":5418419,"k_ele":[{"keb":"神無月","kanji":"神 無 月"}]}
-{"ent_seq":5418420,"k_ele":[{"keb":"神無月","kanji":"神 無 月"}]}
+{"ent_seq":5418418,"k_ele":[{"keb":"神無月","dependents":"神無月の巫女","kanji":"神 無 月"}]}
+{"ent_seq":5418419,"k_ele":[{"keb":"神無月","dependents":"神無月の巫女","kanji":"神 無 月"}]}
+{"ent_seq":5418420,"k_ele":[{"keb":"神無月","dependents":"神無月の巫女","kanji":"神 無 月"}]}
 {"ent_seq":5418421,"k_ele":[{"keb":"神牟札","composition":"神 牟 札","dependencies":"神 牟 札","kanji":"神 牟 札"}]}
 {"ent_seq":5418422,"k_ele":[{"keb":"神牟禮","kanji":"神 牟 禮"}]}
 {"ent_seq":5418423,"k_ele":[{"keb":"神名","dependents":"神名原 神名原川 神名崎 神名沢","kanji":"神 名"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501967,"k_ele":[{"keb":"拓歩","kanji":"拓 歩"}]}
 {"ent_seq":5501968,"k_ele":[{"keb":"拓甫","composition":"拓 甫","dependencies":"拓 甫","kanji":"拓 甫"}]}
 {"ent_seq":5501969,"k_ele":[{"keb":"拓穂","composition":"拓 穂","dependencies":"拓 穂","kanji":"拓 穂"}]}
+{"ent_seq":5501970,"k_ele":[{"keb":"拓穂","composition":"拓 穂","dependencies":"拓 穂","kanji":"拓 穂"}]}

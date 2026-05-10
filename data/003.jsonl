@@ -1,4 +1,3 @@
-{"ent_seq":5200965,"k_ele":[{"keb":"季希","kanji":"季 希"}]}
 {"ent_seq":5200966,"k_ele":[{"keb":"季祈","composition":"季 祈","dependencies":"季 祈","kanji":"季 祈"}]}
 {"ent_seq":5200967,"k_ele":[{"keb":"季貴","composition":"季 貴","dependencies":"季 貴","kanji":"季 貴"}]}
 {"ent_seq":5200968,"k_ele":[{"keb":"季義","composition":"季 義","dependencies":"季 義","kanji":"季 義"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301320,"k_ele":[{"keb":"佐藤初女","composition":"佐藤 初女","dependencies":"佐藤 初女","kanji":"佐 藤 初 女"}]}
 {"ent_seq":5301321,"k_ele":[{"keb":"佐藤初雄","composition":"佐藤 初雄","dependencies":"佐藤 初雄","kanji":"佐 藤 初 雄"}]}
 {"ent_seq":5301322,"k_ele":[{"keb":"佐藤渚","composition":"佐藤 渚","dependencies":"佐藤 渚","kanji":"佐 藤 渚"}]}
+{"ent_seq":5301323,"k_ele":[{"keb":"佐藤勝","composition":"佐藤 勝","dependencies":"佐藤 勝ち 勝","kanji":"佐 藤 勝"}]}

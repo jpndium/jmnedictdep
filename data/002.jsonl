@@ -1,4 +1,3 @@
-{"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野","composition":"阿古屋 野","dependencies":"阿古屋 野","kanji":"阿 古 屋 野"}]}
 {"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル","composition":"阿古屋 野 トンネル","dependencies":"阿古屋 野 トンネル","kanji":"阿 古 屋 野"}]}
 {"ent_seq":5100651,"k_ele":[{"keb":"阿古下","kanji":"阿 古 下"}]}
 {"ent_seq":5100652,"k_ele":[{"keb":"阿古江","kanji":"阿 古 江"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5200962,"k_ele":[{"keb":"季楽","kanji":"季 楽"}]}
 {"ent_seq":5200963,"k_ele":[{"keb":"季干","composition":"季 干","dependencies":"季 干し 干","kanji":"季 干"}]}
 {"ent_seq":5200964,"k_ele":[{"keb":"季喜","composition":"季 喜","dependencies":"季 喜","kanji":"季 喜"}]}
+{"ent_seq":5200965,"k_ele":[{"keb":"季希","kanji":"季 希"}]}

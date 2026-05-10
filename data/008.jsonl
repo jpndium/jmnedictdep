@@ -1,4 +1,3 @@
-{"ent_seq":5702776,"k_ele":[{"keb":"隆氏","composition":"隆 氏","dependencies":"隆 氏","kanji":"隆 氏"}]}
 {"ent_seq":5702777,"k_ele":[{"keb":"隆至","kanji":"隆 至"}]}
 {"ent_seq":5702778,"k_ele":[{"keb":"隆至","kanji":"隆 至"}]}
 {"ent_seq":5702779,"k_ele":[{"keb":"隆至","kanji":"隆 至"}]}
@@ -20644,7 +20643,7 @@
 {"ent_seq":5723470,"k_ele":[{"keb":"巫子柴","composition":"巫子 柴","dependencies":"巫女 巫子 柴","kanji":"巫 子 柴"}]}
 {"ent_seq":5723471,"k_ele":[{"keb":"巫子沼","composition":"巫子 沼","dependencies":"巫女 巫子 沼","kanji":"巫 子 沼"}]}
 {"ent_seq":5723472,"k_ele":[{"keb":"巫紗","composition":"巫 紗","dependencies":"巫 紗","kanji":"巫 紗"}]}
-{"ent_seq":5723473,"k_ele":[{"keb":"巫女","dependents":"大神子 姫巫女 巫女淵 巫女都 巫子 巫子柴 巫子沼 市神子 新神子 社神子 神子 神子ヶ市 神子ヶ浜 神子之森 神子之浦 神子内 神子内川 神子内橋 神子原 神子原ダム 神子垣 神子塚 神子尾 神子屋敷 神子山 神子山新田 神子岡前 神子岩 神子崎 神子川 神子様 神子橋 神子清水 神子畑 神子畑川 神子納 神子落 神子路 神子都 神子野 緋巫女 葵巫女","kanji":"巫 女"}]}
+{"ent_seq":5723473,"k_ele":[{"keb":"巫女","dependents":"大神子 姫巫女 巫女淵 巫女都 巫子 巫子柴 巫子沼 市神子 新神子 社神子 神子 神子ヶ市 神子ヶ浜 神子之森 神子之浦 神子内 神子内川 神子内橋 神子原 神子原ダム 神子垣 神子塚 神子尾 神子屋敷 神子山 神子山新田 神子岡前 神子岩 神子崎 神子川 神子様 神子橋 神子清水 神子畑 神子畑川 神子納 神子落 神子路 神子都 神子野 神無月の巫女 緋巫女 葵巫女","kanji":"巫 女"}]}
 {"ent_seq":5723474,"k_ele":[{"keb":"巫女子","composition":"巫 女子","dependencies":"巫 女子","kanji":"巫 女 子"}]}
 {"ent_seq":5723475,"k_ele":[{"keb":"巫女都","composition":"巫女 都","dependencies":"巫女 都","kanji":"巫 女 都"}]}
 {"ent_seq":5723476,"k_ele":[{"keb":"巫女淵","composition":"巫女 淵","dependencies":"巫女 淵","kanji":"巫 女 淵"}]}
@@ -43333,4 +43332,15 @@
 {"ent_seq":5747728,"k_ele":[{"keb":"里見八犬伝","composition":"里見 八 犬 伝","dependencies":"里見 八 犬 伝","kanji":"里 見 八 犬 伝"}]}
 {"ent_seq":5747729,"k_ele":[{"keb":"特茶","composition":"特 茶","dependencies":"特 茶","kanji":"特 茶"}]}
 {"ent_seq":5747730,"k_ele":[{"keb":"羅生門河岸","composition":"羅生門 河岸","dependencies":"羅生門 河岸","kanji":"羅 生 門 河 岸"}]}
+{"ent_seq":5747731}
+{"ent_seq":5747732}
+{"ent_seq":5747733,"k_ele":[{"keb":"碧寧","composition":"碧 寧","dependencies":"碧 寧","kanji":"碧 寧"}]}
+{"ent_seq":5747734,"k_ele":[{"keb":"神無月の巫女","composition":"神無月 の 巫女","dependencies":"神無月 の 巫女","kanji":"神 無 月 巫 女"}]}
+{"ent_seq":5747735,"k_ele":[{"keb":"モノノ怪","composition":"モノノ 怪","dependencies":"モノノ 怪","kanji":"怪"}]}
+{"ent_seq":5747736,"k_ele":[{"keb":"夢の浮橋","composition":"夢 の 浮橋","dependencies":"夢 の 浮き橋 浮橋","kanji":"夢 浮 橋"},{"keb":"夢浮橋","composition":"夢 浮橋","dependencies":"夢 浮き橋 浮橋","kanji":"夢 浮 橋"},{"keb":"夢の浮き橋","composition":"夢 の 浮き橋","dependencies":"夢 の 浮き橋","kanji":"夢 浮 橋"}]}
+{"ent_seq":5747737,"k_ele":[{"keb":"瑞麗","composition":"瑞 麗","dependencies":"瑞 麗","kanji":"瑞 麗"}]}
+{"ent_seq":5747738,"k_ele":[{"keb":"イスラム革命防衛隊","composition":"イスラム 革命 防衛 隊","dependencies":"イスラム 革命 防衛 隊","kanji":"革 命 防 衛 隊"}]}
+{"ent_seq":5747739,"k_ele":[{"keb":"シーサンパンナタイ族自治州","composition":"シーサンパンナタ イ族 自治州","dependencies":"シーサンパンナタ 彝族 イ族 自治 州 自治州","kanji":"族 自 治 州"},{"keb":"西双版納傣族自治州","composition":"西双版納 傣族 自治州","dependencies":"西双版納 傣族 自治 州 自治州","kanji":"西 双 版 納 傣 族 自 治 州"}]}
+{"ent_seq":5747740,"k_ele":[{"keb":"中国建設銀行","composition":"中国 建設 銀行","dependencies":"中国 建設 銀行","kanji":"中 国 建 設 銀 行"}]}
+{"ent_seq":5747741,"k_ele":[{"keb":"磐越道","composition":"磐越 道","dependencies":"磐越 道","kanji":"磐 越 道"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

@@ -43317,7 +43317,6 @@
 {"ent_seq":5043627}
 {"ent_seq":5043628}
 {"ent_seq":5043629}
-{"ent_seq":5043630}
 {"ent_seq":5043631}
 {"ent_seq":5043632}
 {"ent_seq":5043633,"k_ele":[{"keb":"スタファ島","composition":"スタファ 島","dependencies":"スタファ 島","kanji":"島"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100646,"k_ele":[{"keb":"阿原目","composition":"阿原 目","dependencies":"阿原 目","kanji":"阿 原 目"}]}
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古","dependents":"上阿古谷 下阿古谷 阿古乃 阿古師神社 阿古曽 阿古木 阿古木橋 阿古滝 阿古真理","kanji":"阿 古"}]}
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋","dependents":"阿古屋野 阿古屋野トンネル","kanji":"阿 古 屋"}]}
+{"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野","composition":"阿古屋 野","dependencies":"阿古屋 野","kanji":"阿 古 屋 野"}]}
