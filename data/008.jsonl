@@ -1,4 +1,3 @@
-{"ent_seq":5702777,"k_ele":[{"keb":"隆至","kanji":"隆 至"}]}
 {"ent_seq":5702778,"k_ele":[{"keb":"隆至","kanji":"隆 至"}]}
 {"ent_seq":5702779,"k_ele":[{"keb":"隆至","kanji":"隆 至"}]}
 {"ent_seq":5702780,"k_ele":[{"keb":"隆視","kanji":"隆 視"}]}
@@ -43356,4 +43355,11 @@
 {"ent_seq":5747752,"k_ele":[{"keb":"中南海","composition":"中 南海","dependencies":"中 南海","kanji":"中 南 海"}]}
 {"ent_seq":5747753,"k_ele":[{"keb":"荒野の用心棒","composition":"荒野 の 用心棒","dependencies":"荒野 の 用心 棒 用心棒","kanji":"荒 野 用 心 棒"}]}
 {"ent_seq":5747754,"k_ele":[{"keb":"南詔","kanji":"南 詔"}]}
+{"ent_seq":5747756,"k_ele":[{"keb":"キラキラ星","composition":"キラキラ 星","dependencies":"きらきら キラキラ 星","kanji":"星"},{"keb":"きらきら星","composition":"きらきら 星","dependencies":"きらきら 星","kanji":"星"}]}
+{"ent_seq":5747757,"k_ele":[{"keb":"フランス通信社","composition":"フランス 通信社","dependencies":"フランス 通信 社 通信社","kanji":"通 信 社"}]}
+{"ent_seq":5747758,"k_ele":[{"keb":"ＱＵＯカード","composition":"ＱＵＯ カード","dependencies":"QUO ＱＵＯ カード"}]}
+{"ent_seq":5747759,"k_ele":[{"keb":"熊蜂の飛行","composition":"熊蜂 の 飛行","dependencies":"熊蜂 の 飛行","kanji":"熊 蜂 飛 行"}]}
+{"ent_seq":5747760}
+{"ent_seq":5747761,"k_ele":[{"keb":"銀河英雄伝説","composition":"銀河 英雄 伝説","dependencies":"銀河 英雄 伝説","kanji":"銀 河 英 雄 伝 説"}]}
+{"ent_seq":5747762,"k_ele":[{"keb":"大西郷","composition":"大西 郷","dependencies":"大西 里 郷","kanji":"大 西 郷"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
