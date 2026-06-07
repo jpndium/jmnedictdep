@@ -43385,4 +43385,13 @@
 {"ent_seq":5747783,"k_ele":[{"keb":"蒔羽","kanji":"蒔 羽"}]}
 {"ent_seq":5747784,"k_ele":[{"keb":"野球殿堂","composition":"野球 殿堂","dependencies":"野球 殿堂","kanji":"野 球 殿 堂"}]}
 {"ent_seq":5747785,"k_ele":[{"keb":"野風子","composition":"野風 子","dependencies":"野風 子","kanji":"野 風 子"}]}
+{"ent_seq":5747786}
+{"ent_seq":5747787,"k_ele":[{"keb":"アンクルトムの小屋","composition":"アンクルトム の 小屋","dependencies":"アンクルトム の 小屋","kanji":"小 屋"}]}
+{"ent_seq":5747788}
+{"ent_seq":5747789,"k_ele":[{"keb":"ＯｐｅｎＡＩ","composition":"OpenAI","dependencies":"OpenAI"},{"keb":"オープンＡＩ","composition":"オープン ＡＩ","dependencies":"オープン AI ＡＩ"}]}
+{"ent_seq":5747790,"k_ele":[{"keb":"民多留","composition":"民 多留","dependencies":"民 多留","kanji":"民 多 留"}]}
+{"ent_seq":5747791}
+{"ent_seq":5747792}
+{"ent_seq":5747793}
+{"ent_seq":5747794,"k_ele":[{"keb":"アメリカ精神医学会","composition":"アメリカ 精神 医学 会","dependencies":"アメリカ 精神 医学 会","kanji":"精 神 医 学 会"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}
