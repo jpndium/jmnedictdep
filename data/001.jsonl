@@ -91617,7 +91617,6 @@
 {"ent_seq":5092217}
 {"ent_seq":5092218}
 {"ent_seq":5092219}
-{"ent_seq":5092221}
 {"ent_seq":5092222}
 {"ent_seq":5092223}
 {"ent_seq":5092224}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100647,"k_ele":[{"keb":"阿古","dependents":"上阿古谷 下阿古谷 阿古乃 阿古師神社 阿古曽 阿古木 阿古木橋 阿古滝 阿古真理","kanji":"阿 古"}]}
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋","dependents":"阿古屋野 阿古屋野トンネル","kanji":"阿 古 屋"}]}
 {"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野","composition":"阿古屋 野","dependencies":"阿古屋 野","kanji":"阿 古 屋 野"}]}
+{"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル","composition":"阿古屋 野 トンネル","dependencies":"阿古屋 野 トンネル","kanji":"阿 古 屋 野"}]}
