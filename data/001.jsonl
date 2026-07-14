@@ -54423,7 +54423,6 @@
 {"ent_seq":5054805}
 {"ent_seq":5054806}
 {"ent_seq":5054807}
-{"ent_seq":5054808}
 {"ent_seq":5054809}
 {"ent_seq":5054810}
 {"ent_seq":5054811}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100648,"k_ele":[{"keb":"阿古屋","dependents":"阿古屋野 阿古屋野トンネル","kanji":"阿 古 屋"}]}
 {"ent_seq":5100649,"k_ele":[{"keb":"阿古屋野","composition":"阿古屋 野","dependencies":"阿古屋 野","kanji":"阿 古 屋 野"}]}
 {"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル","composition":"阿古屋 野 トンネル","dependencies":"阿古屋 野 トンネル","kanji":"阿 古 屋 野"}]}
+{"ent_seq":5100651,"k_ele":[{"keb":"阿古下","kanji":"阿 古 下"}]}
