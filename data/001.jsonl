@@ -89262,7 +89262,7 @@
 {"ent_seq":5089852}
 {"ent_seq":5089853}
 {"ent_seq":5089854}
-{"ent_seq":5089855,"k_ele":[{"keb":"ラペルーズ海峡","composition":"ラペルーズ 海峡","dependencies":"ラペルーズ 海峡","kanji":"海 峡"}]}
+{"ent_seq":5089855,"k_ele":[{"keb":"ラペルーズ海峡","composition":"ラペルーズ 海峡","dependencies":"ラペルーズ 海峡","kanji":"海 峡"},{"keb":"ラ・ペルーズ海峡","composition":"ラ・ペ ルーズ 海峡","dependencies":"ラペ ラ・ペ ルーズ 海峡","kanji":"海 峡"}]}
 {"ent_seq":5089856}
 {"ent_seq":5089857,"k_ele":[{"keb":"ラペル川","composition":"ラペル 川","dependencies":"ラペル 川","kanji":"川"}]}
 {"ent_seq":5089858}
