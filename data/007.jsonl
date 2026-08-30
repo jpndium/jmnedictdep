@@ -1,5 +1,3 @@
-{"ent_seq":5602448,"k_ele":[{"keb":"番藤","kanji":"番 藤"}]}
-{"ent_seq":5602449,"k_ele":[{"keb":"番頭屋","composition":"番頭 屋","dependencies":"番頭 屋","kanji":"番 頭 屋"}]}
 {"ent_seq":5602450,"k_ele":[{"keb":"番頭島","composition":"番頭 島","dependencies":"番頭 島","kanji":"番 頭 島"}]}
 {"ent_seq":5602451,"k_ele":[{"keb":"番堂野","kanji":"番 堂 野"}]}
 {"ent_seq":5602452,"k_ele":[{"keb":"番道田池","composition":"番道 田池","dependencies":"番道 田池","kanji":"番 道 田 池"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5702786,"k_ele":[{"keb":"隆児","dependents":"小林隆児","kanji":"隆 児"}]}
 {"ent_seq":5702787,"k_ele":[{"keb":"隆児","dependents":"小林隆児","kanji":"隆 児"}]}
 {"ent_seq":5702788,"k_ele":[{"keb":"隆慈","dependents":"前田隆慈","kanji":"隆 慈"}]}
+{"ent_seq":5702789,"k_ele":[{"keb":"隆時","kanji":"隆 時"}]}
+{"ent_seq":5702790,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}

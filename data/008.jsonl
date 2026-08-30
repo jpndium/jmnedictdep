@@ -1,5 +1,3 @@
-{"ent_seq":5702789,"k_ele":[{"keb":"隆時","kanji":"隆 時"}]}
-{"ent_seq":5702790,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}
 {"ent_seq":5702791,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}
 {"ent_seq":5702792,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}
 {"ent_seq":5702793,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}
@@ -43614,4 +43612,13 @@
 {"ent_seq":5748028,"k_ele":[{"keb":"日中共同声明","composition":"日中 共同 声明","dependencies":"日中 共同 声明","kanji":"日 中 共 同 声 明"}]}
 {"ent_seq":5748029,"k_ele":[{"keb":"河野談話","composition":"河野 談話","dependencies":"河野 談話","kanji":"河 野 談 話"}]}
 {"ent_seq":5748030,"k_ele":[{"keb":"村山談話","composition":"村山 談話","dependencies":"村山 談話","kanji":"村 山 談 話"}]}
+{"ent_seq":5748035}
+{"ent_seq":5748036,"k_ele":[{"keb":"矩賢","composition":"矩 賢","dependencies":"矩 賢","kanji":"矩 賢"}]}
+{"ent_seq":5748039,"k_ele":[{"keb":"煤渡り","kanji":"煤 渡"}]}
+{"ent_seq":5748041}
+{"ent_seq":5748042}
+{"ent_seq":5748043,"k_ele":[{"keb":"草十郎","composition":"草 十郎","dependencies":"草 十郎","kanji":"草 十 郎"}]}
+{"ent_seq":5748044,"k_ele":[{"keb":"ｂｉｌｉｂｉｌｉ"}]}
+{"ent_seq":5748045,"k_ele":[{"keb":"青ひげ","composition":"青髭","dependencies":"青髭","kanji":"青"},{"keb":"青髯","composition":"青髭","dependencies":"青髭","kanji":"青 髯"}]}
+{"ent_seq":5748046,"k_ele":[{"keb":"拙政園","composition":"拙 政 園","dependencies":"拙い 拙 政 園","kanji":"拙 政 園"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

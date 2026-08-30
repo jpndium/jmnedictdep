@@ -63668,7 +63668,6 @@
 {"ent_seq":5064120,"k_ele":[{"keb":"バン湖","composition":"バン 湖","dependencies":"ばん バン 湖","kanji":"湖"}]}
 {"ent_seq":5064121,"k_ele":[{"keb":"バン崎","composition":"バン 崎","dependencies":"ばん バン 崎","kanji":"崎"}]}
 {"ent_seq":5064122,"k_ele":[{"keb":"バン川","composition":"バン 川","dependencies":"ばん バン 川","kanji":"川"}]}
-{"ent_seq":5064123}
 {"ent_seq":5064124}
 {"ent_seq":5064125}
 {"ent_seq":5064126}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100650,"k_ele":[{"keb":"阿古屋野トンネル","composition":"阿古屋 野 トンネル","dependencies":"阿古屋 野 トンネル","kanji":"阿 古 屋 野"}]}
 {"ent_seq":5100651,"k_ele":[{"keb":"阿古下","kanji":"阿 古 下"}]}
 {"ent_seq":5100652,"k_ele":[{"keb":"阿古江","kanji":"阿 古 江"}]}
+{"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社","composition":"阿古 師 神社","dependencies":"阿古 師 神社","kanji":"阿 古 師 神 社"}]}
