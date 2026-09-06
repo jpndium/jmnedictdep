@@ -23797,7 +23797,6 @@
 {"ent_seq":5023978,"k_ele":[{"keb":"カ子ト","kanji":"子"}]}
 {"ent_seq":5023979}
 {"ent_seq":5023980}
-{"ent_seq":5023981}
 {"ent_seq":5023982}
 {"ent_seq":5023983}
 {"ent_seq":5023984}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100651,"k_ele":[{"keb":"阿古下","kanji":"阿 古 下"}]}
 {"ent_seq":5100652,"k_ele":[{"keb":"阿古江","kanji":"阿 古 江"}]}
 {"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社","composition":"阿古 師 神社","dependencies":"阿古 師 神社","kanji":"阿 古 師 神 社"}]}
+{"ent_seq":5100654,"k_ele":[{"keb":"阿古真理","composition":"阿古 真理","dependencies":"阿古 真理","kanji":"阿 古 真 理"}]}

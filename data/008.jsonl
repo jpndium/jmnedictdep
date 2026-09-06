@@ -1,4 +1,3 @@
-{"ent_seq":5702791,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}
 {"ent_seq":5702792,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}
 {"ent_seq":5702793,"k_ele":[{"keb":"隆次","dependents":"中野隆次 後藤隆次 渡辺隆次 田辺隆次 高木隆次","kanji":"隆 次"}]}
 {"ent_seq":5702794,"k_ele":[{"keb":"隆次郎","kanji":"隆 次 郎"}]}
@@ -43621,4 +43620,12 @@
 {"ent_seq":5748044,"k_ele":[{"keb":"ｂｉｌｉｂｉｌｉ"}]}
 {"ent_seq":5748045,"k_ele":[{"keb":"青ひげ","composition":"青髭","dependencies":"青髭","kanji":"青"},{"keb":"青髯","composition":"青髭","dependencies":"青髭","kanji":"青 髯"}]}
 {"ent_seq":5748046,"k_ele":[{"keb":"拙政園","composition":"拙 政 園","dependencies":"拙い 拙 政 園","kanji":"拙 政 園"}]}
+{"ent_seq":5748047,"k_ele":[{"keb":"暁海","kanji":"暁 海"}]}
+{"ent_seq":5748048,"k_ele":[{"keb":"サラエボ包囲","composition":"サラエボ 包囲","dependencies":"サラエボ 包囲","kanji":"包 囲"},{"keb":"サラエヴォ包囲","composition":"サラエヴォ 包囲","dependencies":"サラエボ サラエヴォ 包囲","kanji":"包 囲"}]}
+{"ent_seq":5748049}
+{"ent_seq":5748050}
+{"ent_seq":5748051,"k_ele":[{"keb":"国家サイバー統括室","composition":"国家 サイバー 統括 室","dependencies":"国家 サイバー 統括 室","kanji":"国 家 統 括 室"}]}
+{"ent_seq":5748052,"k_ele":[{"keb":"国家情報局","composition":"国家 情報局","dependencies":"国家 情報 局 情報局","kanji":"国 家 情 報 局"}]}
+{"ent_seq":5748053}
+{"ent_seq":5748054,"k_ele":[{"keb":"ウマ娘プリティーダービー","composition":"ウマ 娘 プリティー ダービー","dependencies":"ウマ 娘 プリティー ダービー","kanji":"娘"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

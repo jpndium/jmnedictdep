@@ -1,4 +1,3 @@
-{"ent_seq":5401594,"k_ele":[{"keb":"条次","composition":"条 次","dependencies":"条 次","kanji":"条 次"}]}
 {"ent_seq":5401595,"k_ele":[{"keb":"条治","dependents":"加藤条治","kanji":"条 治"}]}
 {"ent_seq":5401596,"k_ele":[{"keb":"条実","composition":"条 実","dependencies":"条 実","kanji":"条 実"}]}
 {"ent_seq":5401597,"k_ele":[{"keb":"条赦","composition":"条 赦","dependencies":"条 赦","kanji":"条 赦"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501977,"k_ele":[{"keb":"拓北四条","composition":"拓 北四条","dependencies":"拓 北四条","kanji":"拓 北 四 条"}]}
 {"ent_seq":5501978,"k_ele":[{"keb":"拓北七条","composition":"拓 北七条","dependencies":"拓 北七条","kanji":"拓 北 七 条"}]}
 {"ent_seq":5501979,"k_ele":[{"keb":"拓北七条","composition":"拓 北七条","dependencies":"拓 北七条","kanji":"拓 北 七 条"}]}
+{"ent_seq":5501980,"k_ele":[{"keb":"拓北川","composition":"拓北 川","dependencies":"拓北 川","kanji":"拓 北 川"}]}
