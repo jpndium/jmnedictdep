@@ -9686,7 +9686,6 @@
 {"ent_seq":5009726,"k_ele":[{"keb":"アトル島","composition":"アトル 島","dependencies":"アトル 島","kanji":"島"}]}
 {"ent_seq":5009727}
 {"ent_seq":5009728,"k_ele":[{"keb":"アトレク川","composition":"アトレク 川","dependencies":"アトレク 川","kanji":"川"}]}
-{"ent_seq":5009729}
 {"ent_seq":5009730}
 {"ent_seq":5009731,"k_ele":[{"keb":"アドゥール川","composition":"アドゥール 川","dependencies":"アドゥール 川","kanji":"川"}]}
 {"ent_seq":5009732}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100652,"k_ele":[{"keb":"阿古江","kanji":"阿 古 江"}]}
 {"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社","composition":"阿古 師 神社","dependencies":"阿古 師 神社","kanji":"阿 古 師 神 社"}]}
 {"ent_seq":5100654,"k_ele":[{"keb":"阿古真理","composition":"阿古 真理","dependencies":"阿古 真理","kanji":"阿 古 真 理"}]}
+{"ent_seq":5100655,"k_ele":[{"keb":"阿古曽","composition":"阿古 曽","dependencies":"阿古 曽","kanji":"阿 古 曽"}]}
