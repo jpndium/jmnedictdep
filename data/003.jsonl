@@ -36846,7 +36846,7 @@
 {"ent_seq":5237972,"k_ele":[{"keb":"軍司貞則","composition":"軍司 貞則","dependencies":"軍司 貞則","kanji":"軍 司 貞 則"}]}
 {"ent_seq":5237973,"k_ele":[{"keb":"軍四郎","composition":"軍 四郎","dependencies":"軍 四郎","kanji":"軍 四 郎"}]}
 {"ent_seq":5237974,"k_ele":[{"keb":"軍市","kanji":"軍 市"}]}
-{"ent_seq":5237975,"k_ele":[{"keb":"軍事","kanji":"軍 事"}]}
+{"ent_seq":5237975,"k_ele":[{"keb":"軍事","dependents":"秘密軍事組織","kanji":"軍 事"}]}
 {"ent_seq":5237976,"k_ele":[{"keb":"軍侍","kanji":"軍 侍"}]}
 {"ent_seq":5237977,"k_ele":[{"keb":"軍次","kanji":"軍 次"}]}
 {"ent_seq":5237978,"k_ele":[{"keb":"軍次郎","composition":"軍 次郎","dependencies":"軍 次郎","kanji":"軍 次 郎"}]}
