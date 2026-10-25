@@ -1,4 +1,3 @@
-{"ent_seq":5200976,"k_ele":[{"keb":"季久","dependents":"季久三 季久世 季久乃 季久久 季久二 季久夫 季久央 季久実 季久己 季久巳 季久恵 季久未 季久枝 季久水 季久江 季久男 季久絵 季久緒 季久美 季久衣 季久見","kanji":"季 久"}]}
 {"ent_seq":5200977,"k_ele":[{"keb":"季久衣","composition":"季久 衣","dependencies":"季久 衣","kanji":"季 久 衣"}]}
 {"ent_seq":5200978,"k_ele":[{"keb":"季久央","composition":"季久 央","dependencies":"季久 央","kanji":"季 久 央"}]}
 {"ent_seq":5200979,"k_ele":[{"keb":"季久絵","composition":"季久 絵","dependencies":"季久 絵","kanji":"季 久 絵"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5301331,"k_ele":[{"keb":"佐藤尚邦","composition":"佐藤 尚邦","dependencies":"佐藤 尚邦","kanji":"佐 藤 尚 邦"}]}
 {"ent_seq":5301332,"k_ele":[{"keb":"佐藤庄市郎","composition":"佐藤 庄市 郎","dependencies":"佐藤 庄市 郎","kanji":"佐 藤 庄 市 郎"}]}
 {"ent_seq":5301333,"k_ele":[{"keb":"佐藤彰一","composition":"佐藤 彰一","dependencies":"佐藤 彰一","kanji":"佐 藤 彰 一"}]}
+{"ent_seq":5301334,"k_ele":[{"keb":"佐藤彰夫","composition":"佐藤 彰夫","dependencies":"佐藤 彰夫","kanji":"佐 藤 彰 夫"}]}

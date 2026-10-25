@@ -1,4 +1,3 @@
-{"ent_seq":5301334,"k_ele":[{"keb":"佐藤彰夫","composition":"佐藤 彰夫","dependencies":"佐藤 彰夫","kanji":"佐 藤 彰 夫"}]}
 {"ent_seq":5301335,"k_ele":[{"keb":"佐藤昭郎","composition":"佐藤 昭郎","dependencies":"佐藤 昭郎","kanji":"佐 藤 昭 郎"}]}
 {"ent_seq":5301336,"k_ele":[{"keb":"佐藤晶子","composition":"佐藤 晶子","dependencies":"佐藤 晶子","kanji":"佐 藤 晶 子"}]}
 {"ent_seq":5301337,"k_ele":[{"keb":"佐藤丈次","composition":"佐藤 丈次","dependencies":"佐藤 丈次","kanji":"佐 藤 丈 次"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5401594,"k_ele":[{"keb":"条次","composition":"条 次","dependencies":"条 次","kanji":"条 次"}]}
 {"ent_seq":5401595,"k_ele":[{"keb":"条治","dependents":"加藤条治","kanji":"条 治"}]}
 {"ent_seq":5401596,"k_ele":[{"keb":"条実","composition":"条 実","dependencies":"条 実","kanji":"条 実"}]}
+{"ent_seq":5401597,"k_ele":[{"keb":"条赦","composition":"条 赦","dependencies":"条 赦","kanji":"条 赦"}]}

@@ -84258,7 +84258,6 @@
 {"ent_seq":5084818}
 {"ent_seq":5084819}
 {"ent_seq":5084820}
-{"ent_seq":5084821}
 {"ent_seq":5084822,"k_ele":[{"keb":"メガネ岩","composition":"メガネ 岩","dependencies":"眼鏡 メガネ 岩","kanji":"岩"}]}
 {"ent_seq":5084823}
 {"ent_seq":5084824}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5100653,"k_ele":[{"keb":"阿古師神社","composition":"阿古 師 神社","dependencies":"阿古 師 神社","kanji":"阿 古 師 神 社"}]}
 {"ent_seq":5100654,"k_ele":[{"keb":"阿古真理","composition":"阿古 真理","dependencies":"阿古 真理","kanji":"阿 古 真 理"}]}
 {"ent_seq":5100655,"k_ele":[{"keb":"阿古曽","composition":"阿古 曽","dependencies":"阿古 曽","kanji":"阿 古 曽"}]}
+{"ent_seq":5100656,"k_ele":[{"keb":"阿古曽町","kanji":"阿 古 曽 町"}]}

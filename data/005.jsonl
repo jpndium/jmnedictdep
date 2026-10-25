@@ -1,4 +1,3 @@
-{"ent_seq":5401597,"k_ele":[{"keb":"条赦","composition":"条 赦","dependencies":"条 赦","kanji":"条 赦"}]}
 {"ent_seq":5401598,"k_ele":[{"keb":"条生","kanji":"条 生"}]}
 {"ent_seq":5401599,"k_ele":[{"keb":"条川","kanji":"条 川"}]}
 {"ent_seq":5401600,"k_ele":[{"keb":"条多朗","composition":"条 多朗","dependencies":"条 多朗","kanji":"条 多 朗"}]}
@@ -11282,8 +11281,8 @@
 {"ent_seq":5412912,"k_ele":[{"keb":"真嘉","kanji":"真 嘉"}]}
 {"ent_seq":5412913,"k_ele":[{"keb":"真嘉","kanji":"真 嘉"}]}
 {"ent_seq":5412914,"k_ele":[{"keb":"真嘉比","kanji":"真 嘉 比"}]}
-{"ent_seq":5412915,"k_ele":[{"keb":"真夏","dependents":"村山真夏 真夏喜 真夏帆 真夏栄 真夏竜 真夏花 真夏輝","kanji":"真 夏"}]}
-{"ent_seq":5412916,"k_ele":[{"keb":"真夏","dependents":"村山真夏 真夏喜 真夏帆 真夏栄 真夏竜 真夏花 真夏輝","kanji":"真 夏"}]}
+{"ent_seq":5412915,"k_ele":[{"keb":"真夏","dependents":"村山真夏 真夏の夜の淫夢 真夏喜 真夏帆 真夏栄 真夏竜 真夏花 真夏輝","kanji":"真 夏"}]}
+{"ent_seq":5412916,"k_ele":[{"keb":"真夏","dependents":"村山真夏 真夏の夜の淫夢 真夏喜 真夏帆 真夏栄 真夏竜 真夏花 真夏輝","kanji":"真 夏"}]}
 {"ent_seq":5412917,"k_ele":[{"keb":"真夏栄","composition":"真夏 栄","dependencies":"真夏 栄え 栄","kanji":"真 夏 栄"}]}
 {"ent_seq":5412918,"k_ele":[{"keb":"真夏花","composition":"真夏 花","dependencies":"真夏 花","kanji":"真 夏 花"}]}
 {"ent_seq":5412919,"k_ele":[{"keb":"真夏海","kanji":"真 夏 海"}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":5501980,"k_ele":[{"keb":"拓北川","composition":"拓北 川","dependencies":"拓北 川","kanji":"拓 北 川"}]}
 {"ent_seq":5501981,"k_ele":[{"keb":"拓北二条","composition":"拓北 二 条","dependencies":"拓北 二 条","kanji":"拓 北 二 条"}]}
 {"ent_seq":5501982,"k_ele":[{"keb":"拓北八条","composition":"拓 北八条","dependencies":"拓 北八条","kanji":"拓 北 八 条"}]}
+{"ent_seq":5501983,"k_ele":[{"keb":"拓北六条","composition":"拓 北六条","dependencies":"拓 北六条","kanji":"拓 北 六 条"}]}
