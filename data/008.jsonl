@@ -1,5 +1,3 @@
-{"ent_seq":5702796,"k_ele":[{"keb":"隆滋","dependents":"内田隆滋","kanji":"隆 滋"}]}
-{"ent_seq":5702797,"k_ele":[{"keb":"隆滋","dependents":"内田隆滋","kanji":"隆 滋"}]}
 {"ent_seq":5702798,"k_ele":[{"keb":"隆治","dependents":"佐藤隆治 堀内隆治 大野隆治 宮本隆治 岡本隆治 斉藤隆治 澤田隆治 高崎隆治","kanji":"隆 治"}]}
 {"ent_seq":5702799,"k_ele":[{"keb":"隆治","dependents":"佐藤隆治 堀内隆治 大野隆治 宮本隆治 岡本隆治 斉藤隆治 澤田隆治 高崎隆治","kanji":"隆 治"}]}
 {"ent_seq":5702800,"k_ele":[{"keb":"隆治","dependents":"佐藤隆治 堀内隆治 大野隆治 宮本隆治 岡本隆治 斉藤隆治 澤田隆治 高崎隆治","kanji":"隆 治"}]}
@@ -43679,4 +43677,10 @@
 {"ent_seq":5748113}
 {"ent_seq":5748114,"k_ele":[{"keb":"真夏の夜の淫夢","composition":"真夏 の 夜 の 淫夢","dependencies":"真夏 の 夜 淫夢","kanji":"真 夏 夜 淫 夢"}]}
 {"ent_seq":5748115,"k_ele":[{"keb":"韓国国際協力団","composition":"韓国 国際 協力 団","dependencies":"韓国 国際 協力 団","kanji":"韓 国 国 際 協 力 団"}]}
+{"ent_seq":5748116}
+{"ent_seq":5748117}
+{"ent_seq":5748118,"k_ele":[{"keb":"京浜工業地帯","composition":"京浜 工業地帯","dependencies":"京浜 工業 地帯 工業地帯","kanji":"京 浜 工 業 地 帯"}]}
+{"ent_seq":5748119}
+{"ent_seq":5748120,"k_ele":[{"keb":"明辰","composition":"明 辰","dependencies":"明 辰","kanji":"明 辰"}]}
+{"ent_seq":5748121,"k_ele":[{"keb":"明辰","composition":"明 辰","dependencies":"明 辰","kanji":"明 辰"}]}
 {"ent_seq":9999990,"k_ele":[{"keb":"ＪＭｎｅｄｉｃｔ"}]}

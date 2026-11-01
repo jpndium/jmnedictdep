@@ -80153,7 +80153,6 @@
 {"ent_seq":5080691}
 {"ent_seq":5080692}
 {"ent_seq":5080693}
-{"ent_seq":5080694}
 {"ent_seq":5080695}
 {"ent_seq":5080696}
 {"ent_seq":5080697}
@@ -80445,7 +80444,6 @@
 {"ent_seq":5080986}
 {"ent_seq":5080987}
 {"ent_seq":5080988,"k_ele":[{"keb":"マチャチェ山","composition":"マチャチェ 山","dependencies":"マチャチェ 山","kanji":"山"}]}
-{"ent_seq":5080989}
 {"ent_seq":5080990}
 {"ent_seq":5080991}
 {"ent_seq":5080992}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5100654,"k_ele":[{"keb":"阿古真理","composition":"阿古 真理","dependencies":"阿古 真理","kanji":"阿 古 真 理"}]}
 {"ent_seq":5100655,"k_ele":[{"keb":"阿古曽","composition":"阿古 曽","dependencies":"阿古 曽","kanji":"阿 古 曽"}]}
 {"ent_seq":5100656,"k_ele":[{"keb":"阿古曽町","kanji":"阿 古 曽 町"}]}
+{"ent_seq":5100657,"k_ele":[{"keb":"阿古滝","composition":"阿古 滝","dependencies":"阿古 滝","kanji":"阿 古 滝"}]}
+{"ent_seq":5100658,"k_ele":[{"keb":"阿古乃","composition":"阿古 乃","dependencies":"阿古 の 乃","kanji":"阿 古 乃"}]}

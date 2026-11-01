@@ -1,5 +1,3 @@
-{"ent_seq":5200977,"k_ele":[{"keb":"季久衣","composition":"季久 衣","dependencies":"季久 衣","kanji":"季 久 衣"}]}
-{"ent_seq":5200978,"k_ele":[{"keb":"季久央","composition":"季久 央","dependencies":"季久 央","kanji":"季 久 央"}]}
 {"ent_seq":5200979,"k_ele":[{"keb":"季久絵","composition":"季久 絵","dependencies":"季久 絵","kanji":"季 久 絵"}]}
 {"ent_seq":5200980,"k_ele":[{"keb":"季久久","composition":"季久 久","dependencies":"季久 久","kanji":"季 久 久"}]}
 {"ent_seq":5200981,"k_ele":[{"keb":"季久恵","composition":"季久 恵","dependencies":"季久 恵","kanji":"季 久 恵"}]}
@@ -19192,7 +19190,7 @@
 {"ent_seq":5220251,"k_ele":[{"keb":"京美","kanji":"京 美"}]}
 {"ent_seq":5220252,"k_ele":[{"keb":"京美","kanji":"京 美"}]}
 {"ent_seq":5220253,"k_ele":[{"keb":"京姫","dependents":"金京姫","kanji":"京 姫"}]}
-{"ent_seq":5220254,"k_ele":[{"keb":"京浜","dependents":"京浜変電所 京浜大橋 京浜島 京浜急行 京浜急行空港線 京浜東北 京浜東北線 京浜港 京浜運河 日本鋼管京浜製鉄所 東芝京浜事業所","kanji":"京 浜"}]}
+{"ent_seq":5220254,"k_ele":[{"keb":"京浜","dependents":"京浜変電所 京浜大橋 京浜島 京浜工業地帯 京浜急行 京浜急行空港線 京浜東北 京浜東北線 京浜港 京浜運河 日本鋼管京浜製鉄所 東芝京浜事業所","kanji":"京 浜"}]}
 {"ent_seq":5220255,"k_ele":[{"keb":"京浜運河","composition":"京浜 運河","dependencies":"京浜 運河","kanji":"京 浜 運 河"}]}
 {"ent_seq":5220256,"k_ele":[{"keb":"京浜急行","composition":"京浜 急行","dependencies":"京浜 急行","dependents":"京浜急行空港線","kanji":"京 浜 急 行"}]}
 {"ent_seq":5220257,"k_ele":[{"keb":"京浜急行空港線","composition":"京浜急行 空港線","dependencies":"京浜 急行 京浜急行 空港 線 空港線","kanji":"京 浜 急 行 空 港 線"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5301332,"k_ele":[{"keb":"佐藤庄市郎","composition":"佐藤 庄市 郎","dependencies":"佐藤 庄市 郎","kanji":"佐 藤 庄 市 郎"}]}
 {"ent_seq":5301333,"k_ele":[{"keb":"佐藤彰一","composition":"佐藤 彰一","dependencies":"佐藤 彰一","kanji":"佐 藤 彰 一"}]}
 {"ent_seq":5301334,"k_ele":[{"keb":"佐藤彰夫","composition":"佐藤 彰夫","dependencies":"佐藤 彰夫","kanji":"佐 藤 彰 夫"}]}
+{"ent_seq":5301335,"k_ele":[{"keb":"佐藤昭郎","composition":"佐藤 昭郎","dependencies":"佐藤 昭郎","kanji":"佐 藤 昭 郎"}]}
+{"ent_seq":5301336,"k_ele":[{"keb":"佐藤晶子","composition":"佐藤 晶子","dependencies":"佐藤 晶子","kanji":"佐 藤 晶 子"}]}

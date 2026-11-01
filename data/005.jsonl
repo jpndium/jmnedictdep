@@ -1,5 +1,3 @@
-{"ent_seq":5401598,"k_ele":[{"keb":"条生","kanji":"条 生"}]}
-{"ent_seq":5401599,"k_ele":[{"keb":"条川","kanji":"条 川"}]}
 {"ent_seq":5401600,"k_ele":[{"keb":"条多朗","composition":"条 多朗","dependencies":"条 多朗","kanji":"条 多 朗"}]}
 {"ent_seq":5401601,"k_ele":[{"keb":"条多郎","composition":"条 多郎","dependencies":"条 多郎","kanji":"条 多 郎"}]}
 {"ent_seq":5401602,"k_ele":[{"keb":"条太","composition":"条 太","dependencies":"条 太","kanji":"条 太"}]}
@@ -99998,3 +99996,5 @@
 {"ent_seq":5501981,"k_ele":[{"keb":"拓北二条","composition":"拓北 二 条","dependencies":"拓北 二 条","kanji":"拓 北 二 条"}]}
 {"ent_seq":5501982,"k_ele":[{"keb":"拓北八条","composition":"拓 北八条","dependencies":"拓 北八条","kanji":"拓 北 八 条"}]}
 {"ent_seq":5501983,"k_ele":[{"keb":"拓北六条","composition":"拓 北六条","dependencies":"拓 北六条","kanji":"拓 北 六 条"}]}
+{"ent_seq":5501984,"k_ele":[{"keb":"拓摩","kanji":"拓 摩"}]}
+{"ent_seq":5501985,"k_ele":[{"keb":"拓磨","dependents":"内藤拓磨 竹若拓磨 青木拓磨","kanji":"拓 磨"}]}
